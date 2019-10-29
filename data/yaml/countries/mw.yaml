@@ -18,22 +18,22 @@ languages:
   eng: English
   nya: Chewa
 translations:
-  DEU:
+  DE:
     common: Malawi
     official: Republik Malawi
-  FIN:
+  FI:
     common: Malawi
     official: Malawin tasavalta
-  FRA:
+  FR:
     common: Malawi
     official: République du Malawi
-  JPN:
+  JP:
     common: マラウイ
     official: マラウイ共和国
-  POR:
+  PT:
     common: Malawi
     official: República do Malawi
-  RUS:
+  RU:
     common: Малави
     official: Республика Малави
 currencies:

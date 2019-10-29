@@ -3,7 +3,7 @@ name:
   common: Germany
   official: Federal Republic of Germany
   native:
-    deu:
+    DE:
       common: Deutschland
       official: Bundesrepublik Deutschland
 eumember: true
@@ -12,33 +12,33 @@ nationality: German
 tlds:
 - ".de"
 languages:
-  deu: German
+  DE: German
 translations:
-  DEU:
+  DE:
     common: Deutschland
     official: Bundesrepublik Deutschland
-  FIN:
+  FI:
     common: Saksa
     official: Saksan liittotasavalta
-  FRA:
+  FR:
     common: Allemagne
     official: République fédérale d'Allemagne
-  HRV:
+  HR:
     common: Njemačka
     official: Njemačka Federativna Republika
-  ITA:
+  IT:
     common: Germania
     official: Repubblica federale di Germania
-  JPN:
+  JP:
     common: ドイツ
     official: ドイツ連邦共和国
-  NLD:
+  NL:
     common: Duitsland
     official: Bondsrepubliek Duitsland
-  POR:
+  PT:
     common: Alemanha
     official: República Federal da Alemanha
-  SPA:
+  ES:
     nationality: Alemán
 currencies:
 - EUR

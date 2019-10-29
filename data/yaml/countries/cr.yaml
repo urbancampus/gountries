@@ -3,7 +3,7 @@ name:
   common: Costa Rica
   official: Republic of Costa Rica
   native:
-    spa:
+    ES:
       common: Costa Rica
       official: República de Costa Rica
 eumember: false
@@ -12,27 +12,27 @@ nationality: Costa Rican
 tlds:
 - ".cr"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Costa Rica
     official: Republic of Costa Rica
-  HRV:
+  HR:
     common: Kostarika
     official: Republika Kostarika
-  ITA:
+  IT:
     common: Costa Rica
     official: Repubblica di Costa Rica
-  JPN:
+  JP:
     common: コスタリカ
     official: コスタリカ共和国
-  NLD:
+  NL:
     common: Costa Rica
     official: Republiek Costa Rica
-  POR:
+  PT:
     common: Costa Rica
     official: República da Costa Rica
-  SPA:
+  ES:
     common: Costa Rica
     official: República de Costa Rica
     nationality: Costarricense

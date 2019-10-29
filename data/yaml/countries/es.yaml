@@ -15,7 +15,7 @@ name:
     oci:
       common: Espanha
       official: Reialme d'Espanha
-    spa:
+    ES:
       common: España
       official: Reino de España
 eumember: true
@@ -28,30 +28,30 @@ languages:
   eus: Basque
   glg: Galician
   oci: Occitan
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Spanien
     official: Königreich Spanien
-  FRA:
+  FR:
     common: Espagne
     official: Royaume d'Espagne
-  HRV:
+  HR:
     common: Španjolska
     official: Kraljevina Španjolska
-  ITA:
+  IT:
     common: Spagna
     official: Regno di Spagna
-  JPN:
+  JP:
     common: スペイン
     official: スペイン王国
-  NLD:
+  NL:
     common: Spanje
     official: Koninkrijk Spanje
-  POR:
+  PT:
     common: Espanha
     official: Reino de Espanha
-  SPA:
+  ES:
     nationality: Española
 currencies:
 - EUR

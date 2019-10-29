@@ -3,7 +3,7 @@ name:
   common: Saint Pierre and Miquelon
   official: Saint Pierre and Miquelon
   native:
-    fra:
+    FR:
       common: Saint-Pierre-et-Miquelon
       official: Collectivité territoriale de Saint-Pierre-et-Miquelon
 eumember: false
@@ -12,24 +12,24 @@ nationality: Saint-Pierrais or Miquelonnais
 tlds:
 - ".pm"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Saint-Pierre und Miquelon
     official: St. Pierre und Miquelon
-  FRA:
+  FR:
     common: Saint-Pierre-et-Miquelon
     official: Saint-Pierre-et-Miquelon
-  HRV:
+  HR:
     common: Sveti Petar i Mikelon
     official: Saint Pierre i Miquelon
-  ITA:
+  IT:
     common: Saint-Pierre e Miquelon
     official: Saint Pierre e Miquelon
-  RUS:
+  RU:
     common: Сен-Пьер и Микелон
     official: Сен-Пьер и Микелон
-  SPA:
+  ES:
     common: San Pedro y Miquelón
     official: San Pedro y Miquelón
 currencies:

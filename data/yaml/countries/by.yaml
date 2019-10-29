@@ -6,7 +6,7 @@ name:
     bel:
       common: Белару́сь
       official: Рэспубліка Беларусь
-    rus:
+    RU:
       common: Белоруссия
       official: Республика Беларусь
 eumember: false
@@ -16,36 +16,36 @@ tlds:
 - ".by"
 languages:
   bel: Belarusian
-  rus: Russian
+  RU: Russian
 translations:
-  CYM:
+  KY:
     common: Belarws
     official: Republic of Belarus
-  DEU:
+  DE:
     common: Weißrussland
     official: Republik Belarus
-  FIN:
+  FI:
     common: Valko-Venäjä
     official: Valko-Venäjän tasavalta
-  FRA:
+  FR:
     common: Biélorussie
     official: République de Biélorussie
-  HRV:
+  HR:
     common: Bjelorusija
     official: Republika Bjelorusija
-  ITA:
+  IT:
     common: Bielorussia
     official: Repubblica di Belarus
-  JPN:
+  JP:
     common: ベラルーシ
     official: ベラルーシ共和国
-  NLD:
+  NL:
     common: Wit-Rusland
     official: Republiek Belarus
-  RUS:
+  RU:
     common: Белоруссия
     official: Республика Беларусь
-  SPA:
+  ES:
     common: Bielorrusia
     official: República de Belarús
 currencies:

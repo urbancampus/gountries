@@ -14,25 +14,25 @@ tlds:
 languages:
   swe: Swedish
 translations:
-  DEU:
+  DE:
     common: Schweden
     official: Königreich Schweden
-  FIN:
+  FI:
     common: Ruotsi
     official: Ruotsin kuningaskunta
-  FRA:
+  FR:
     common: Suède
     official: Royaume de Suède
-  ITA:
+  IT:
     common: Svezia
     official: Regno di Svezia
-  JPN:
+  JP:
     common: スウェーデン
     official: スウェーデン王国
-  POR:
+  PT:
     common: Suécia
     official: Reino da Suécia
-  SPA:
+  ES:
     common: Suecia
     official: Reino de Suecia
     nationality: Sueca

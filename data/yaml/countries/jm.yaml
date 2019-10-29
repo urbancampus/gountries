@@ -18,16 +18,16 @@ languages:
   eng: English
   jam: Jamaican Patois
 translations:
-  FIN:
+  FI:
     common: Jamaika
     official: Jamaika
-  POR:
+  PT:
     common: Jamaica
     official: Jamaica
-  RUS:
+  RU:
     common: Ямайка
     official: Ямайка
-  SPA:
+  ES:
     common: Jamaica
     official: Jamaica
     nationality: Jamaicana

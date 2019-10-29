@@ -14,31 +14,31 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Sambia
     official: Republik Sambia
-  FIN:
+  FI:
     common: Sambia
     official: Sambian tasavalta
-  FRA:
+  FR:
     common: Zambie
     official: République de Zambie
-  HRV:
+  HR:
     common: Zambija
     official: Republika Zambija
-  ITA:
+  IT:
     common: Zambia
     official: Repubblica di Zambia
-  NLD:
+  NL:
     common: Zambia
     official: Republiek Zambia
-  POR:
+  PT:
     common: Zâmbia
     official: República da Zâmbia
-  RUS:
+  RU:
     common: Замбия
     official: Республика Замбия
-  SPA:
+  ES:
     common: Zambia
     official: República de Zambia
     nationality: Zambiana

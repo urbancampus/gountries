@@ -3,7 +3,7 @@ name:
   common: Republic of the Congo
   official: Republic of the Congo
   native:
-    fra:
+    FR:
       common: République du Congo
       official: République du Congo
     kon:
@@ -18,35 +18,35 @@ nationality: Congolese
 tlds:
 - ".cg"
 languages:
-  fra: French
+  FR: French
   kon: Kikongo
   lin: Lingala
 translations:
-  CYM:
+  KY:
     common: Gweriniaeth y Congo
     official: Republic of the Congo
-  DEU:
+  DE:
     common: Kongo
     official: Republik Kongo
-  FRA:
+  FR:
     common: Congo
     official: République du Congo
-  HRV:
+  HR:
     common: Kongo
     official: Republika Kongo
-  JPN:
+  JP:
     common: コンゴ共和国
     official: コンゴ共和国
-  NLD:
+  NL:
     common: Congo
     official: Republiek Congo
-  POR:
+  PT:
     common: Congo
     official: República do Congo
-  RUS:
+  RU:
     common: Республика Конго
     official: Республика Конго
-  SPA:
+  ES:
     common: Congo
     official: República del Congo
 currencies:

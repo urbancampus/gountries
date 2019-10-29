@@ -6,7 +6,7 @@ name:
     ara:
       common: جيبوتي‎
       official: جمهورية جيبوتي
-    fra:
+    FR:
       common: Djibouti
       official: République de Djibouti
 eumember: false
@@ -16,30 +16,30 @@ tlds:
 - ".dj"
 languages:
   ara: Arabic
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Dschibuti
     official: Republik Dschibuti
-  FIN:
+  FI:
     common: Dijibouti
     official: Dijiboutin tasavalta
-  FRA:
+  FR:
     common: Djibouti
     official: République de Djibouti
-  HRV:
+  HR:
     common: Džibuti
     official: Republika Džibuti
-  NLD:
+  NL:
     common: Djibouti
     official: Republiek Djibouti
-  POR:
+  PT:
     common: Djibouti
     official: República do Djibouti
-  RUS:
+  RU:
     common: Джибути
     official: Республика Джибути
-  SPA:
+  ES:
     common: Djibouti
     official: República de Djibouti
 currencies:

@@ -18,28 +18,28 @@ languages:
   eng: English
   mlt: Maltese
 translations:
-  FIN:
+  FI:
     common: Malta
     official: Maltan tasavalta
-  FRA:
+  FR:
     common: Malte
     official: République de Malte
-  ITA:
+  IT:
     common: Malta
     official: Repubblica di Malta
-  JPN:
+  JP:
     common: マルタ
     official: マルタ共和国
-  NLD:
+  NL:
     common: Malta
     official: Republiek Malta
-  POR:
+  PT:
     common: Malta
     official: República de Malta
-  RUS:
+  RU:
     common: Мальта
     official: Республика Мальта
-  SPA:
+  ES:
     nationality: Maltés
 currencies:
 - EUR

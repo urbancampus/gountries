@@ -3,13 +3,13 @@ name:
   common: Belgium
   official: Kingdom of Belgium
   native:
-    deu:
+    DE:
       common: Belgien
       official: Königreich Belgien
-    fra:
+    FR:
       common: Belgique
       official: Royaume de Belgique
-    nld:
+    NL:
       common: België
       official: Koninkrijk België
 eumember: true
@@ -18,32 +18,32 @@ nationality: Belgian
 tlds:
 - ".be"
 languages:
-  deu: German
-  fra: French
-  nld: Dutch
+  DE: German
+  FR: French
+  NL: Dutch
 translations:
-  CYM:
+  KY:
     common: Gwlad Belg
     official: Kingdom of Belgium
-  DEU:
+  DE:
     common: Belgien
     official: Königreich Belgien
-  FIN:
+  FI:
     common: Belgia
     official: Belgian kuningaskunta
-  FRA:
+  FR:
     common: Belgique
     official: Royaume de Belgique
-  ITA:
+  IT:
     common: Belgio
     official: Regno del Belgio
-  POR:
+  PT:
     common: Bélgica
     official: Reino da Bélgica
-  RUS:
+  RU:
     common: Бельгия
     official: Королевство Бельгия
-  SPA:
+  ES:
     nationality: Belga
 currencies:
 - EUR

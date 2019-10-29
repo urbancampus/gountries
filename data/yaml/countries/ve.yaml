@@ -3,7 +3,7 @@ name:
   common: Venezuela
   official: Bolivarian Republic of Venezuela
   native:
-    spa:
+    ES:
       common: Venezuela
       official: República Bolivariana de Venezuela
 eumember: false
@@ -12,27 +12,27 @@ nationality: Venezuelan
 tlds:
 - ".ve"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Venezuela
     official: Bolivarische Republik Venezuela
-  FRA:
+  FR:
     common: Venezuela
     official: République bolivarienne du Venezuela
-  ITA:
+  IT:
     common: Venezuela
     official: Repubblica Bolivariana del Venezuela
-  JPN:
+  JP:
     common: ベネズエラ・ボリバル共和国
     official: ベネズエラ·ボリバル共和国
-  POR:
+  PT:
     common: Venezuela
     official: República Bolivariana da Venezuela
-  RUS:
+  RU:
     common: Венесуэла
     official: Боливарианская Республика Венесуэла
-  SPA:
+  ES:
     common: Venezuela
     official: República Bolivariana de Venezuela
     nationality: Venezolana

@@ -3,7 +3,7 @@ name:
   common: Japan
   official: Japan
   native:
-    jpn:
+    JP:
       common: 日本
       official: 日本
 eumember: false
@@ -13,24 +13,24 @@ tlds:
 - ".jp"
 - ".みんな"
 languages:
-  jpn: Japanese
+  JP: Japanese
 translations:
-  HRV:
+  HR:
     common: Japan
     official: Japan
-  ITA:
+  IT:
     common: Giappone
     official: Giappone
-  JPN:
+  JP:
     common: 日本
     official: 日本
-  POR:
+  PT:
     common: Japão
     official: Japão
-  RUS:
+  RU:
     common: Япония
     official: Япония
-  SPA:
+  ES:
     common: Japón
     official: Japón
     nationality: Nipona

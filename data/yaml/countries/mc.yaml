@@ -3,7 +3,7 @@ name:
   common: Monaco
   official: Principality of Monaco
   native:
-    fra:
+    FR:
       common: Monaco
       official: Principauté de Monaco
 eumember: false
@@ -12,33 +12,33 @@ nationality: Monégasque, Monacan
 tlds:
 - ".mc"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Monaco
     official: Fürstentum Monaco
-  FIN:
+  FI:
     common: Monaco
     official: Monacon ruhtinaskunta
-  FRA:
+  FR:
     common: Monaco
     official: Principauté de Monaco
-  HRV:
+  HR:
     common: Monako
     official: Kneževina Monako
-  ITA:
+  IT:
     common: Principato di Monaco
     official: Principato di Monaco
-  JPN:
+  JP:
     common: モナコ
     official: モナコ公国
-  NLD:
+  NL:
     common: Monaco
     official: Vorstendom Monaco
-  POR:
+  PT:
     common: Mónaco
     official: Principado do Mónaco
-  SPA:
+  ES:
     common: Mónaco
     official: Principado de Mónaco
 currencies:

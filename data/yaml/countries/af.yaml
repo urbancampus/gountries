@@ -22,16 +22,16 @@ languages:
   pus: Pashto
   tuk: Turkmen
 translations:
-  CYM:
+  KY:
     common: Affganistan
     official: Islamic Republic of Afghanistan
-  NLD:
+  NL:
     common: Afghanistan
     official: Islamitische Republiek Afghanistan
-  RUS:
+  RU:
     common: Афганистан
     official: Исламская Республика Афганистан
-  SPA:
+  ES:
     nationality: Afgana
 currencies:
 - AFN

@@ -15,22 +15,22 @@ tlds:
 languages:
   kor: Korean
 translations:
-  DEU:
+  DE:
     common: Südkorea
     official: Republik Korea
-  FIN:
+  FI:
     common: Etelä-Korea
     official: Korean tasavalta
-  HRV:
+  HR:
     common: Južna Koreja
     official: Republika Koreja
-  POR:
+  PT:
     common: Coreia do Sul
     official: República da Coreia
-  RUS:
+  RU:
     common: Южная Корея
     official: Республика Корея
-  SPA:
+  ES:
     common: Corea del Sur
     official: República de Corea
     nationality: Coreana

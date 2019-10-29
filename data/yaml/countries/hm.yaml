@@ -15,22 +15,22 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Heard ja McDonaldinsaaret
     official: Heard ja McDonaldinsaaret
-  FRA:
+  FR:
     common: Îles Heard-et-MacDonald
     official: Des îles Heard et McDonald
-  ITA:
+  IT:
     common: Isole Heard e McDonald
     official: Isole Heard e McDonald
-  NLD:
+  NL:
     common: Heard-en McDonaldeilanden
     official: Heard en McDonaldeilanden
-  POR:
+  PT:
     common: Ilha Heard e Ilhas McDonald
     official: Ilha Heard e Ilhas McDonald
-  RUS:
+  RU:
     common: Остров Херд и острова Макдональд
     official: Остров Херд и острова Макдональд
 currencies:

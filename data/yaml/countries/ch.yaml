@@ -3,13 +3,13 @@ name:
   common: Switzerland
   official: Swiss Confederation
   native:
-    fra:
+    FR:
       common: Suisse
       official: Confédération suisse
     gsw:
       common: Schweiz
       official: Schweizerische Eidgenossenschaft
-    ita:
+    IT:
       common: Svizzera
       official: Confederazione Svizzera
     roh:
@@ -21,30 +21,30 @@ nationality: Swiss
 tlds:
 - ".ch"
 languages:
-  fra: French
+  FR: French
   gsw: Swiss German
-  ita: Italian
+  IT: Italian
   roh: Romansh
 translations:
-  FRA:
+  FR:
     common: Suisse
     official: Confédération suisse
-  ITA:
+  IT:
     common: Svizzera
     official: Confederazione svizzera
-  JPN:
+  JP:
     common: スイス
     official: スイス連邦
-  NLD:
+  NL:
     common: Zwitserland
     official: Zwitserse Confederatie
-  POR:
+  PT:
     common: Suíça
     official: Confederação Suíça
-  RUS:
+  RU:
     common: Швейцария
     official: Швейцарская Конфедерация
-  SPA:
+  ES:
     common: Suiza
     official: Confederación Suiza
     nationality: Suiza

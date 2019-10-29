@@ -9,7 +9,7 @@ name:
     eng:
       common: Seychelles
       official: Republic of Seychelles
-    fra:
+    FR:
       common: Seychelles
       official: République des Seychelles
 eumember: false
@@ -20,30 +20,30 @@ tlds:
 languages:
   crs: Seychellois Creole
   eng: English
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Seychellen
     official: Republik der Seychellen
-  FIN:
+  FI:
     common: Seychellit
     official: Seychellien tasavalta
-  FRA:
+  FR:
     common: Seychelles
     official: République des Seychelles
-  HRV:
+  HR:
     common: Sejšeli
     official: Republika Sejšeli
-  ITA:
+  IT:
     common: Seychelles
     official: Repubblica delle Seychelles
-  JPN:
+  JP:
     common: セーシェル
     official: セイシェル共和国
-  POR:
+  PT:
     common: Seicheles
     official: República das Seychelles
-  SPA:
+  ES:
     common: Seychelles
     official: República de las Seychelles
 currencies:

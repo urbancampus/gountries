@@ -14,31 +14,31 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Libyen
     official: Staat Libyen
-  FIN:
+  FI:
     common: Libya
     official: Libyan valtio
-  FRA:
+  FR:
     common: Libye
     official: Grande République arabe libyenne populaire et socialiste
-  HRV:
+  HR:
     common: Libija
     official: Država Libiji
-  JPN:
+  JP:
     common: リビア
     official: リビアの国家
-  NLD:
+  NL:
     common: Libië
     official: Staat van Libië
-  POR:
+  PT:
     common: Líbia
     official: Estado da Líbia
-  RUS:
+  RU:
     common: Ливия
     official: Государство Ливии
-  SPA:
+  ES:
     common: Libia
     official: Estado de Libia
     nationality: Libia

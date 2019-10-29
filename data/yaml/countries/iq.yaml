@@ -22,28 +22,28 @@ languages:
   arc: Aramaic
   ckb: Sorani
 translations:
-  DEU:
+  DE:
     common: Irak
     official: Republik Irak
-  FRA:
+  FR:
     common: Irak
     official: République d'Irak
-  ITA:
+  IT:
     common: Iraq
     official: Repubblica dell'Iraq
-  JPN:
+  JP:
     common: イラク
     official: イラク共和国
-  NLD:
+  NL:
     common: Irak
     official: Republiek Irak
-  POR:
+  PT:
     common: Iraque
     official: República do Iraque
-  RUS:
+  RU:
     common: Ирак
     official: Республика Ирак
-  SPA:
+  ES:
     common: Irak
     official: República de Irak
     nationality: Iraquí

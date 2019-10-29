@@ -15,22 +15,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  FRA:
+  FR:
     common: Arabie Saoudite
     official: Royaume d'Arabie Saoudite
-  HRV:
+  HR:
     common: Saudijska Arabija
     official: Kraljevina Saudijska Arabija
-  JPN:
+  JP:
     common: サウジアラビア
     official: サウジアラビア王国
-  POR:
+  PT:
     common: Arábia Saudita
     official: Reino da Arábia Saudita
-  RUS:
+  RU:
     common: Саудовская Аравия
     official: Королевство Саудовская Аравия
-  SPA:
+  ES:
     common: Arabia Saudí
     official: Reino de Arabia Saudita
     nationality: Saudí

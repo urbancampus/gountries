@@ -15,28 +15,28 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Palästina
     official: Staat Palästina
-  FIN:
+  FI:
     common: Palestiina
     official: Palestiinan valtio
-  HRV:
+  HR:
     common: Palestina
     official: State of Palestine
-  ITA:
+  IT:
     common: Palestina
     official: Stato di Palestina
-  JPN:
+  JP:
     common: パレスチナ
     official: パレスチナ自治政府
-  NLD:
+  NL:
     common: Palestijnse gebieden
     official: Staat Palestina
-  POR:
+  PT:
     common: Palestina
     official: Estado da Palestina
-  SPA:
+  ES:
     common: Palestina
     official: Estado de Palestina
 currencies:

@@ -14,31 +14,31 @@ tlds:
 languages:
   swe: Swedish
 translations:
-  DEU:
+  DE:
     common: Åland
     official: Åland-Inseln
-  FIN:
+  FI:
     common: Ahvenanmaa
     official: Ahvenanmaan maakunta
-  FRA:
+  FR:
     common: Ahvenanmaa
     official: Ahvenanmaa
-  HRV:
+  HR:
     common: Ålandski otoci
     official: Aland Islands
-  ITA:
+  IT:
     common: Isole Aland
     official: Isole Åland
-  JPN:
+  JP:
     common: オーランド諸島
     official: オーランド諸島
-  NLD:
+  NL:
     common: Ålandeilanden
     official: Åland eilanden
-  RUS:
+  RU:
     common: Аландские острова
     official: Аландские острова
-  SPA:
+  ES:
     common: Alandia
     official: Islas Åland
 currencies:

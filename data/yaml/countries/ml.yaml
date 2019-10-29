@@ -3,7 +3,7 @@ name:
   common: Mali
   official: Republic of Mali
   native:
-    fra:
+    FR:
       common: Mali
       official: République du Mali
 eumember: false
@@ -12,24 +12,24 @@ nationality: Malian, Malinese
 tlds:
 - ".ml"
 languages:
-  fra: French
+  FR: French
 translations:
-  FIN:
+  FI:
     common: Mali
     official: Malin tasavalta
-  HRV:
+  HR:
     common: Mali
     official: Republika Mali
-  ITA:
+  IT:
     common: Mali
     official: Repubblica del Mali
-  NLD:
+  NL:
     common: Mali
     official: Republiek Mali
-  RUS:
+  RU:
     common: Мали
     official: Республика Мали
-  SPA:
+  ES:
     common: Mali
     official: República de Malí
     nationality: " malinese"

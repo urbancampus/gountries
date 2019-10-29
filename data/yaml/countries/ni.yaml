@@ -3,7 +3,7 @@ name:
   common: Nicaragua
   official: Republic of Nicaragua
   native:
-    spa:
+    ES:
       common: Nicaragua
       official: República de Nicaragua
 eumember: false
@@ -12,21 +12,21 @@ nationality: Nicaraguan
 tlds:
 - ".ni"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  FIN:
+  FI:
     common: Nicaragua
     official: Nicaraguan tasavalta
-  ITA:
+  IT:
     common: Nicaragua
     official: Repubblica del Nicaragua
-  JPN:
+  JP:
     common: ニカラグア
     official: ニカラグア共和国
-  POR:
+  PT:
     common: Nicarágua
     official: República da Nicarágua
-  SPA:
+  ES:
     nationality: Nicaragüense
 currencies:
 - NIO

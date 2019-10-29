@@ -6,7 +6,7 @@ name:
     kaz:
       common: Қазақстан
       official: Қазақстан Республикасы
-    rus:
+    RU:
       common: Казахстан
       official: Республика Казахстан
 eumember: false
@@ -17,24 +17,24 @@ tlds:
 - ".қаз"
 languages:
   kaz: Kazakh
-  rus: Russian
+  RU: Russian
 translations:
-  DEU:
+  DE:
     common: Kasachstan
     official: Republik Kasachstan
-  ITA:
+  IT:
     common: Kazakistan
     official: Repubblica del Kazakhstan
-  JPN:
+  JP:
     common: カザフスタン
     official: カザフスタン共和国
-  POR:
+  PT:
     common: Cazaquistão
     official: República do Cazaquistão
-  RUS:
+  RU:
     common: Казахстан
     official: Республика Казахстан
-  SPA:
+  ES:
     common: Kazajistán
     official: República de Kazajstán
 currencies:

@@ -3,7 +3,7 @@ name:
   common: Suriname
   official: Republic of Suriname
   native:
-    nld:
+    NL:
       common: Suriname
       official: Republiek Suriname
 eumember: false
@@ -12,27 +12,27 @@ nationality: Surinamese
 tlds:
 - ".sr"
 languages:
-  nld: Dutch
+  NL: Dutch
 translations:
-  FIN:
+  FI:
     common: Suriname
     official: Surinamen tasavalta
-  FRA:
+  FR:
     common: Surinam
     official: République du Suriname
-  ITA:
+  IT:
     common: Suriname
     official: Repubblica del Suriname
-  JPN:
+  JP:
     common: スリナム
     official: スリナム共和国
-  POR:
+  PT:
     common: Suriname
     official: República do Suriname
-  RUS:
+  RU:
     common: Суринам
     official: Республика Суринам
-  SPA:
+  ES:
     common: Surinam
     official: República de Suriname
 currencies:

@@ -6,10 +6,10 @@ name:
     eng:
       common: Sint Maarten
       official: Sint Maarten
-    fra:
+    FR:
       common: Saint-Martin
       official: Saint-Martin
-    nld:
+    NL:
       common: Sint Maarten
       official: Sint Maarten
 eumember: false
@@ -19,22 +19,22 @@ tlds:
 - ".sx"
 languages:
   eng: English
-  fra: French
-  nld: Dutch
+  FR: French
+  NL: Dutch
 translations:
-  DEU:
+  DE:
     common: Sint Maarten
     official: Sint Maarten
-  FRA:
+  FR:
     common: Saint-Martin
     official: Sint Maarten
-  NLD:
+  NL:
     common: Sint Maarten
     official: Sint Maarten
-  POR:
+  PT:
     common: São Martinho
     official: Sint Maarten
-  RUS:
+  RU:
     common: Синт-Мартен
     official: Синт-Маартен
 currencies:

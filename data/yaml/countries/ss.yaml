@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Etelä-Sudan
     official: Etelä-Sudanin tasavalta
-  FRA:
+  FR:
     common: Soudan du Sud
     official: République du Soudan du Sud
-  HRV:
+  HR:
     common: Južni Sudan
     official: Republika Južni Sudan
-  ITA:
+  IT:
     common: Sudan del sud
     official: Repubblica del Sudan del Sud
-  POR:
+  PT:
     common: Sudão do Sul
     official: República do Sudão do Sul
-  RUS:
+  RU:
     common: Южный Судан
     official: Республика Южный Судан
-  SPA:
+  ES:
     common: Sudán del Sur
     official: República de Sudán del Sur
 currencies:

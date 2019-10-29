@@ -14,13 +14,13 @@ tlds:
 languages:
   srp: Montenegrin
 translations:
-  ITA:
+  IT:
     common: Montenegro
     official: Montenegro
-  NLD:
+  NL:
     common: Montenegro
     official: Montenegro
-  RUS:
+  RU:
     common: Черногория
     official: Черногория
 currencies:

@@ -3,7 +3,7 @@ name:
   common: Colombia
   official: Republic of Colombia
   native:
-    spa:
+    ES:
       common: Colombia
       official: República de Colombia
 eumember: false
@@ -12,33 +12,33 @@ nationality: Colombian
 tlds:
 - ".co"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Colombia
     official: Republic of Colombia
-  DEU:
+  DE:
     common: Kolumbien
     official: Republik Kolumbien
-  FIN:
+  FI:
     common: Kolumbia
     official: Kolumbian tasavalta
-  FRA:
+  FR:
     common: Colombie
     official: République de Colombie
-  HRV:
+  HR:
     common: Kolumbija
     official: Republika Kolumbija
-  ITA:
+  IT:
     common: Colombia
     official: Repubblica di Colombia
-  JPN:
+  JP:
     common: コロンビア
     official: コロンビア共和国
-  POR:
+  PT:
     common: Colômbia
     official: República da Colômbia
-  SPA:
+  ES:
     nationality: Colombiana
 currencies:
 - COP

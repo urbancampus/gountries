@@ -14,25 +14,25 @@ tlds:
 languages:
   kat: Georgian
 translations:
-  FIN:
+  FI:
     common: Georgia
     official: Georgia
-  HRV:
+  HR:
     common: Gruzija
     official: Gruzija
-  ITA:
+  IT:
     common: Georgia
     official: Georgia
-  JPN:
+  JP:
     common: グルジア
     official: グルジア
-  POR:
+  PT:
     common: Geórgia
     official: Georgia
-  RUS:
+  RU:
     common: Грузия
     official: Грузия
-  SPA:
+  ES:
     nationality: Georgiana
 currencies:
 - GEL

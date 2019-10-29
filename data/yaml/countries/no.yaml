@@ -22,22 +22,22 @@ languages:
   nob: Norwegian Bokmål
   smi: Sami
 translations:
-  FRA:
+  FR:
     common: Norvège
     official: Royaume de Norvège
-  HRV:
+  HR:
     common: Norveška
     official: Kraljevina Norveška
-  JPN:
+  JP:
     common: ノルウェー
     official: ノルウェー王国
-  NLD:
+  NL:
     common: Noorwegen
     official: Koninkrijk Noorwegen
-  RUS:
+  RU:
     common: Норвегия
     official: Королевство Норвегия
-  SPA:
+  ES:
     common: Noruega
     official: Reino de Noruega
     nationality: Noruega

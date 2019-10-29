@@ -14,31 +14,31 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Saint Vincent ja Grenadiinit
     official: Saint Vincent ja Grenadiinit
-  FRA:
+  FR:
     common: Saint-Vincent-et-les-Grenadines
     official: Saint-Vincent-et-les Grenadines
-  HRV:
+  HR:
     common: Sveti Vincent i Grenadini
     official: Sveti Vincent i Grenadini
-  ITA:
+  IT:
     common: Saint Vincent e Grenadine
     official: Saint Vincent e Grenadine
-  JPN:
+  JP:
     common: セントビンセントおよびグレナディーン諸島
     official: セントビンセントおよびグレナディーン諸島
-  NLD:
+  NL:
     common: Saint Vincent en de Grenadines
     official: Saint Vincent en de Grenadines
-  POR:
+  PT:
     common: São Vincente e Granadinas
     official: São Vicente e Granadinas
-  RUS:
+  RU:
     common: Сент-Винсент и Гренадины
     official: Сент-Винсент и Гренадины
-  SPA:
+  ES:
     common: San Vicente y Granadinas
     official: San Vicente y las Granadinas
 currencies:

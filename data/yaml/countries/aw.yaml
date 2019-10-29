@@ -3,7 +3,7 @@ name:
   common: Aruba
   official: Aruba
   native:
-    nld:
+    NL:
       common: Aruba
       official: Aruba
     pap:
@@ -15,28 +15,28 @@ nationality: Aruban
 tlds:
 - ".aw"
 languages:
-  nld: Dutch
+  NL: Dutch
   pap: Papiamento
 translations:
-  FIN:
+  FI:
     common: Aruba
     official: Aruba
-  HRV:
+  HR:
     common: Aruba
     official: Aruba
-  JPN:
+  JP:
     common: アルバ
     official: アルバ
-  NLD:
+  NL:
     common: Aruba
     official: Aruba
-  POR:
+  PT:
     common: Aruba
     official: Aruba
-  RUS:
+  RU:
     common: Аруба
     official: Аруба
-  SPA:
+  ES:
     common: Aruba
     official: Aruba
 currencies:

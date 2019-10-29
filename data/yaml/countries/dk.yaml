@@ -14,31 +14,31 @@ tlds:
 languages:
   dan: Danish
 translations:
-  FIN:
+  FI:
     common: Tanska
     official: Tanskan kuningaskunta
-  FRA:
+  FR:
     common: Danemark
     official: Royaume du Danemark
-  HRV:
+  HR:
     common: Danska
     official: Kraljevina Danska
-  ITA:
+  IT:
     common: Danimarca
     official: Regno di Danimarca
-  JPN:
+  JP:
     common: デンマーク
     official: デンマーク王国
-  NLD:
+  NL:
     common: Denemarken
     official: Koninkrijk Denemarken
-  POR:
+  PT:
     common: Dinamarca
     official: Reino da Dinamarca
-  RUS:
+  RU:
     common: Дания
     official: Королевство Дания
-  SPA:
+  ES:
     common: Dinamarca
     official: Reino de Dinamarca
     nationality: Danés

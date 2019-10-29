@@ -3,7 +3,7 @@ name:
   common: Cape Verde
   official: Republic of Cabo Verde
   native:
-    por:
+    PT:
       common: Cabo Verde
       official: República de Cabo Verde
 eumember: false
@@ -12,27 +12,27 @@ nationality: Cabo Verdean
 tlds:
 - ".cv"
 languages:
-  por: Portuguese
+  PT: Portuguese
 translations:
-  FIN:
+  FI:
     common: Kap Verde
     official: Kap Verden tasavalta
-  FRA:
+  FR:
     common: Îles du Cap-Vert
     official: République du Cap-Vert
-  JPN:
+  JP:
     common: カーボベルデ
     official: カーボベルデ共和国
-  NLD:
+  NL:
     common: Kaapverdië
     official: Republiek van Cabo Verde
-  POR:
+  PT:
     common: Cabo Verde
     official: República de Cabo Verde
-  RUS:
+  RU:
     common: Кабо-Верде
     official: Республика Кабо -Верде
-  SPA:
+  ES:
     common: Cabo Verde
     official: República de Cabo Verde
 currencies:

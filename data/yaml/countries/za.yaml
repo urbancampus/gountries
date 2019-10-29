@@ -54,19 +54,19 @@ languages:
   xho: Xhosa
   zul: Zulu
 translations:
-  FIN:
+  FI:
     common: Etelä-Afrikka
     official: Etelä-Afrikan tasavalta
-  FRA:
+  FR:
     common: Afrique du Sud
     official: République d'Afrique du Sud
-  ITA:
+  IT:
     common: Sud Africa
     official: Repubblica del Sud Africa
-  RUS:
+  RU:
     common: Южно-Африканская Республика
     official: Южно-Африканская Республика
-  SPA:
+  ES:
     common: República de Sudáfrica
     official: República de Sudáfrica
     nationality: Sudafricana

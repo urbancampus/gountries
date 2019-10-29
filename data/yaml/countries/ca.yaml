@@ -6,7 +6,7 @@ name:
     eng:
       common: Canada
       official: Canada
-    fra:
+    FR:
       common: Canada
       official: Canada
 eumember: false
@@ -16,24 +16,24 @@ tlds:
 - ".ca"
 languages:
   eng: English
-  fra: French
+  FR: French
 translations:
-  FRA:
+  FR:
     common: Canada
     official: Canada
-  HRV:
+  HR:
     common: Kanada
     official: Kanada
-  JPN:
+  JP:
     common: カナダ
     official: カナダ
-  NLD:
+  NL:
     common: Canada
     official: Canada
-  RUS:
+  RU:
     common: Канада
     official: Канада
-  SPA:
+  ES:
     common: Canadá
     official: Canadá
     nationality: Canadiense

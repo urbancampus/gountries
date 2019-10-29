@@ -18,19 +18,19 @@ languages:
   ara: Arabic
   eng: English
 translations:
-  FIN:
+  FI:
     common: Sudan
     official: Sudanin tasavalta
-  FRA:
+  FR:
     common: Soudan
     official: République du Soudan
-  HRV:
+  HR:
     common: Sudan
     official: Republika Sudan
-  JPN:
+  JP:
     common: スーダン
     official: スーダン共和国
-  SPA:
+  ES:
     nationality: Sudanés
 currencies:
 - SDG

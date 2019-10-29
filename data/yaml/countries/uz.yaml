@@ -3,7 +3,7 @@ name:
   common: Uzbekistan
   official: Republic of Uzbekistan
   native:
-    rus:
+    RU:
       common: Узбекистан
       official: Республика Узбекистан
     uzb:
@@ -15,25 +15,25 @@ nationality: Uzbekistani, Uzbek
 tlds:
 - ".uz"
 languages:
-  rus: Russian
+  RU: Russian
   uzb: Uzbek
 translations:
-  DEU:
+  DE:
     common: Usbekistan
     official: Republik Usbekistan
-  FIN:
+  FI:
     common: Uzbekistan
     official: Uzbekistanin tasavalta
-  FRA:
+  FR:
     common: Ouzbékistan
     official: République d'Ouzbékistan
-  HRV:
+  HR:
     common: Uzbekistan
     official: Republika Uzbekistan
-  POR:
+  PT:
     common: Uzbequistão
     official: República do Usbequistão
-  RUS:
+  RU:
     common: Узбекистан
     official: Республика Узбекистан
 currencies:

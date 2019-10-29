@@ -14,31 +14,31 @@ tlds:
 languages:
   sqi: Albanian
 translations:
-  CYM:
+  KY:
     common: Albania
     official: Republic of Albania
-  DEU:
+  DE:
     common: Albanien
     official: Republik Albanien
-  FIN:
+  FI:
     common: Albania
     official: Albanian tasavalta
-  HRV:
+  HR:
     common: Albanija
     official: Republika Albanija
-  JPN:
+  JP:
     common: アルバニア
     official: アルバニア共和国
-  NLD:
+  NL:
     common: Albanië
     official: Republiek Albanië
-  POR:
+  PT:
     common: Albânia
     official: República da Albânia
-  RUS:
+  RU:
     common: Албания
     official: Республика Албания
-  SPA:
+  ES:
     common: Albania
     official: República de Albania
     nationality: Albanés

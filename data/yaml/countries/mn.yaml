@@ -14,19 +14,19 @@ tlds:
 languages:
   mon: Mongolian
 translations:
-  FIN:
+  FI:
     common: Mongolia
     official: Mongolian tasavalta
-  FRA:
+  FR:
     common: Mongolie
     official: Mongolie
-  HRV:
+  HR:
     common: Mongolija
     official: Mongolija
-  NLD:
+  NL:
     common: Mongolië
     official: Mongolië
-  SPA:
+  ES:
     common: Mongolia
     official: Mongolia
     nationality: Mongol

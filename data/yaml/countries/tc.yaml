@@ -14,28 +14,28 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Turks-und Caicosinseln
     official: Turks und Caicos Inseln
-  FIN:
+  FI:
     common: Turks-ja Caicossaaret
     official: Turks-ja Caicossaaret
-  HRV:
+  HR:
     common: Otoci Turks i Caicos
     official: Otoci Turks i Caicos
-  JPN:
+  JP:
     common: タークス・カイコス諸島
     official: タークス·カイコス諸島
-  NLD:
+  NL:
     common: Turks-en Caicoseilanden
     official: Turks-en Caicoseilanden
-  POR:
+  PT:
     common: Ilhas Turks e Caicos
     official: Ilhas Turks e Caicos
-  RUS:
+  RU:
     common: Теркс и Кайкос
     official: Теркс и Кайкос острова
-  SPA:
+  ES:
     common: Islas Turks y Caicos
     official: Islas Turcas y Caicos
 currencies:

@@ -14,16 +14,16 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Sierra Leone
     official: Republik Sierra Leone
-  FIN:
+  FI:
     common: Sierra Leone
     official: Sierra Leonen tasavalta
-  NLD:
+  NL:
     common: Sierra Leone
     official: Republiek Sierra Leone
-  SPA:
+  ES:
     common: Sierra Leone
     official: República de Sierra Leona
 currencies:

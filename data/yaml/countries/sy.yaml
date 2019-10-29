@@ -15,22 +15,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Syrien
     official: Arabische Republik Syrien
-  HRV:
+  HR:
     common: Sirija
     official: Sirijska Arapska Republika
-  JPN:
+  JP:
     common: シリア・アラブ共和国
     official: シリアアラブ共和国
-  NLD:
+  NL:
     common: Syrië
     official: Syrische Arabische Republiek
-  RUS:
+  RU:
     common: Сирия
     official: Сирийская Арабская Республика
-  SPA:
+  ES:
     nationality: Siria
 currencies:
 - SYP

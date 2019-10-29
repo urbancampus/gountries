@@ -3,7 +3,7 @@ name:
   common: Réunion
   official: Réunion Island
   native:
-    fra:
+    FR:
       common: La Réunion
       official: Ile de la Réunion
 eumember: false
@@ -12,18 +12,18 @@ nationality: Réunionese, Réunionnais
 tlds:
 - ".re"
 languages:
-  fra: French
+  FR: French
 translations:
-  FIN:
+  FI:
     common: Réunion
     official: Réunion
-  HRV:
+  HR:
     common: Réunion
     official: Réunion Island
-  ITA:
+  IT:
     common: Riunione
     official: Réunion
-  POR:
+  PT:
     common: Reunião
     official: Ilha da Reunião
 currencies:

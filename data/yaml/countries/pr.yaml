@@ -6,7 +6,7 @@ name:
     eng:
       common: Puerto Rico
       official: Commonwealth of Puerto Rico
-    spa:
+    ES:
       common: Puerto Rico
       official: Estado Libre Asociado de Puerto Rico
 eumember: false
@@ -16,30 +16,30 @@ tlds:
 - ".pr"
 languages:
   eng: English
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Puerto Rico
     official: Commonwealth von Puerto Rico
-  FIN:
+  FI:
     common: Puerto Rico
     official: Puerto Rico
-  FRA:
+  FR:
     common: Porto Rico
     official: Porto Rico
-  HRV:
+  HR:
     common: Portoriko
     official: Zajednica Puerto Rico
-  NLD:
+  NL:
     common: Puerto Rico
     official: Gemenebest van Puerto Rico
-  POR:
+  PT:
     common: Porto Rico
     official: Commonwealth of Puerto Rico
-  RUS:
+  RU:
     common: Пуэрто-Рико
     official: Содружество Пуэрто-Рико
-  SPA:
+  ES:
     common: Puerto Rico
     official: Asociado de Puerto Rico
 currencies:

@@ -14,22 +14,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Kuwait
     official: Staat Kuwait
-  FRA:
+  FR:
     common: Koweït
     official: État du Koweït
-  HRV:
+  HR:
     common: Kuvajt
     official: Država Kuvajt
-  ITA:
+  IT:
     common: Kuwait
     official: Stato del Kuwait
-  RUS:
+  RU:
     common: Кувейт
     official: Государство Кувейт
-  SPA:
+  ES:
     common: Kuwait
     official: Estado de Kuwait
     nationality: Kuwaití

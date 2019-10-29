@@ -14,22 +14,22 @@ tlds:
 languages:
   slv: Slovene
 translations:
-  DEU:
+  DE:
     common: Slowenien
     official: Republik Slowenien
-  FIN:
+  FI:
     common: Slovenia
     official: Slovenian tasavalta
-  ITA:
+  IT:
     common: Slovenia
     official: Repubblica di Slovenia
-  POR:
+  PT:
     common: Eslovénia
     official: República da Eslovénia
-  RUS:
+  RU:
     common: Словения
     official: Республика Словения
-  SPA:
+  ES:
     common: Eslovenia
     official: República de Eslovenia
 currencies:

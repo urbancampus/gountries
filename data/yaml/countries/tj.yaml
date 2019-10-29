@@ -3,7 +3,7 @@ name:
   common: Tajikistan
   official: Republic of Tajikistan
   native:
-    rus:
+    RU:
       common: Таджикистан
       official: Республика Таджикистан
     tgk:
@@ -15,25 +15,25 @@ nationality: Tajikistani
 tlds:
 - ".tj"
 languages:
-  rus: Russian
+  RU: Russian
   tgk: Tajik
 translations:
-  FIN:
+  FI:
     common: Tadžikistan
     official: Tadžikistanin tasavalta
-  JPN:
+  JP:
     common: タジキスタン
     official: タジキスタン共和国
-  NLD:
+  NL:
     common: Tadzjikistan
     official: Tadzjikistan
-  POR:
+  PT:
     common: Tajiquistão
     official: República do Tajiquistão
-  RUS:
+  RU:
     common: Таджикистан
     official: Республика Таджикистан
-  SPA:
+  ES:
     common: Tayikistán
     official: República de Tayikistán
     nationality: Tayika

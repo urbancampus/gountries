@@ -3,7 +3,7 @@ name:
   common: Brazil
   official: Federative Republic of Brazil
   native:
-    por:
+    PT:
       common: Brasil
       official: República Federativa do Brasil
 eumember: false
@@ -12,27 +12,27 @@ nationality: Brazilian
 tlds:
 - ".br"
 languages:
-  por: Portuguese
+  PT: Portuguese
 translations:
-  DEU:
+  DE:
     common: Brasilien
     official: Föderative Republik Brasilien
-  FRA:
+  FR:
     common: Brésil
     official: République fédérative du Brésil
-  ITA:
+  IT:
     common: Brasile
     official: Repubblica federativa del Brasile
-  JPN:
+  JP:
     common: ブラジル
     official: ブラジル連邦共和国
-  NLD:
+  NL:
     common: Brazilië
     official: Federale Republiek Brazilië
-  RUS:
+  RU:
     common: Бразилия
     official: Федеративная Республика Бразилия
-  SPA:
+  ES:
     nationality: Brasileña
 currencies:
 - BRL

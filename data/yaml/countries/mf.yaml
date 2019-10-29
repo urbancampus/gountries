@@ -3,7 +3,7 @@ name:
   common: Saint Martin
   official: Saint Martin
   native:
-    fra:
+    FR:
       common: Saint-Martin
       official: Saint-Martin
 eumember: false
@@ -13,27 +13,27 @@ tlds:
 - ".fr"
 - ".gp"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Saint Martin
     official: St. Martin
-  FRA:
+  FR:
     common: Saint-Martin
     official: Saint-Martin
-  HRV:
+  HR:
     common: Sveti Martin
     official: Saint Martin
-  ITA:
+  IT:
     common: Saint Martin
     official: saint Martin
-  JPN:
+  JP:
     common: サン・マルタン（フランス領）
     official: サンマルタン島
-  POR:
+  PT:
     common: São Martinho
     official: saint Martin
-  RUS:
+  RU:
     common: Сен-Мартен
     official: Сен-Мартен
 currencies:

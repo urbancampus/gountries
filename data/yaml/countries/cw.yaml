@@ -6,7 +6,7 @@ name:
     eng:
       common: Curaçao
       official: Country of Curaçao
-    nld:
+    NL:
       common: Curaçao
       official: Land Curaçao
     pap:
@@ -19,22 +19,22 @@ tlds:
 - ".cw"
 languages:
   eng: English
-  nld: Dutch
+  NL: Dutch
   pap: Papiamento
 translations:
-  FIN:
+  FI:
     common: Curaçao
     official: Curaçao
-  NLD:
+  NL:
     common: Curaçao
     official: Land Curaçao
-  POR:
+  PT:
     common: ilha da Curação
     official: País de Curaçao
-  RUS:
+  RU:
     common: Кюрасао
     official: Страна Кюрасао
-  SPA:
+  ES:
     common: Curazao
     official: País de Curazao
 currencies:

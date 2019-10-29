@@ -6,7 +6,7 @@ name:
     bos:
       common: Bosna i Hercegovina
       official: Bosna i Hercegovina
-    hrv:
+    HR:
       common: Bosna i Hercegovina
       official: Bosna i Hercegovina
     srp:
@@ -19,34 +19,34 @@ tlds:
 - ".ba"
 languages:
   bos: Bosnian
-  hrv: Croatian
+  HR: Croatian
   srp: Serbian
 translations:
-  CYM:
+  KY:
     common: Bosnia a Hercegovina
     official: Bosnia and Herzegovina
-  DEU:
+  DE:
     common: Bosnien und Herzegowina
     official: Bosnien und Herzegowina
-  FRA:
+  FR:
     common: Bosnie-Herzégovine
     official: Bosnie-et-Herzégovine
-  HRV:
+  HR:
     common: Bosna i Hercegovina
     official: Bosna i Hercegovina
-  ITA:
+  IT:
     common: Bosnia ed Erzegovina
     official: Bosnia-Erzegovina
-  JPN:
+  JP:
     common: ボスニア・ヘルツェゴビナ
     official: ボスニア·ヘルツェゴビナ
-  NLD:
+  NL:
     common: Bosnië en Herzegovina
     official: Bosnië-Herzegovina
-  POR:
+  PT:
     common: Bósnia e Herzegovina
     official: Bósnia e Herzegovina
-  SPA:
+  ES:
     common: Bosnia y Herzegovina
     official: Bosnia y Herzegovina
 currencies:

@@ -18,22 +18,22 @@ languages:
   ara: Arabic
   heb: Hebrew
 translations:
-  DEU:
+  DE:
     common: Israel
     official: Staat Israel
-  FRA:
+  FR:
     common: Israël
     official: État d'Israël
-  HRV:
+  HR:
     common: Izrael
     official: Država Izrael
-  ITA:
+  IT:
     common: Israele
     official: Stato di Israele
-  NLD:
+  NL:
     common: Israël
     official: Staat Israël
-  SPA:
+  ES:
     nationality: Israelita
 currencies:
 - ILS

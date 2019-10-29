@@ -14,25 +14,25 @@ tlds:
 languages:
   est: Estonian
 translations:
-  CYM:
+  KY:
     common: Estonia
     official: Republic of Estonia
-  DEU:
+  DE:
     common: Estland
     official: Republik Estland
-  FIN:
+  FI:
     common: Viro
     official: Viron tasavalta
-  HRV:
+  HR:
     common: Estonija
     official: Republika Estonija
-  ITA:
+  IT:
     common: Estonia
     official: Repubblica di Estonia
-  NLD:
+  NL:
     common: Estland
     official: Republiek Estland
-  SPA:
+  ES:
     common: Estonia
     official: República de Estonia
     nationality: Estonia

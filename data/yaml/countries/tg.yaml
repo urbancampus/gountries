@@ -3,7 +3,7 @@ name:
   common: Togo
   official: Togolese Republic
   native:
-    fra:
+    FR:
       common: Togo
       official: République togolaise
 eumember: false
@@ -12,27 +12,27 @@ nationality: Togolese
 tlds:
 - ".tg"
 languages:
-  fra: French
+  FR: French
 translations:
-  FRA:
+  FR:
     common: Togo
     official: République togolaise
-  HRV:
+  HR:
     common: Togo
     official: Togolese Republika
-  ITA:
+  IT:
     common: Togo
     official: Repubblica del Togo
-  JPN:
+  JP:
     common: トーゴ
     official: トーゴ共和国
-  NLD:
+  NL:
     common: Togo
     official: Republiek Togo
-  POR:
+  PT:
     common: Togo
     official: República do Togo
-  RUS:
+  RU:
     common: Того
     official: Того Республика
 currencies:

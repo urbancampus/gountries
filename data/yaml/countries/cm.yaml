@@ -6,7 +6,7 @@ name:
     eng:
       common: Cameroon
       official: Republic of Cameroon
-    fra:
+    FR:
       common: Cameroun
       official: République du Cameroun
 eumember: false
@@ -16,33 +16,33 @@ tlds:
 - ".cm"
 languages:
   eng: English
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Kamerun
     official: Republik Kamerun
-  FRA:
+  FR:
     common: Cameroun
     official: République du Cameroun
-  HRV:
+  HR:
     common: Kamerun
     official: Republika Kamerun
-  ITA:
+  IT:
     common: Camerun
     official: Repubblica del Camerun
-  JPN:
+  JP:
     common: カメルーン
     official: カメルーン共和国
-  NLD:
+  NL:
     common: Kameroen
     official: Republiek Kameroen
-  POR:
+  PT:
     common: Camarões
     official: República dos Camarões
-  RUS:
+  RU:
     common: Камерун
     official: Республика Камерун
-  SPA:
+  ES:
     nationality: Camerunesa
 currencies:
 - XAF

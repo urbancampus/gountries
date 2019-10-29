@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  CYM:
+  KY:
     common: Dominica
     official: Commonwealth of Dominica
-  DEU:
+  DE:
     common: Dominica
     official: Commonwealth von Dominica
-  FIN:
+  FI:
     common: Dominica
     official: Dominican liittovaltio
-  HRV:
+  HR:
     common: Dominika
     official: Zajednica Dominika
-  ITA:
+  IT:
     common: Dominica
     official: Commonwealth di Dominica
-  JPN:
+  JP:
     common: ドミニカ国
     official: ドミニカ国
-  SPA:
+  ES:
     nationality: Dominicana
 currencies:
 - XCD

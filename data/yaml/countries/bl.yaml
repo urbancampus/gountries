@@ -3,7 +3,7 @@ name:
   common: Saint Barthélemy
   official: Collectivity of Saint Barthélemy
   native:
-    fra:
+    FR:
       common: Saint-Barthélemy
       official: Collectivité de Saint-Barthélemy
 eumember: false
@@ -12,27 +12,27 @@ nationality: Barthélemois
 tlds:
 - ".bl"
 languages:
-  fra: French
+  FR: French
 translations:
-  FRA:
+  FR:
     common: Saint-Barthélemy
     official: Collectivité de Saint-Barthélemy
-  ITA:
+  IT:
     common: Antille Francesi
     official: Collettività di Saint Barthélemy
-  JPN:
+  JP:
     common: サン・バルテルミー
     official: サン·バルテルミー島の集合体
-  NLD:
+  NL:
     common: Saint Barthélemy
     official: Gemeenschap Saint Barthélemy
-  POR:
+  PT:
     common: São Bartolomeu
     official: Coletividade de Saint Barthélemy
-  RUS:
+  RU:
     common: Сен-Бартелеми
     official: Коллективность Санкт -Бартельми
-  SPA:
+  ES:
     common: San Bartolomé
     official: Colectividad de San Barthélemy
 currencies:

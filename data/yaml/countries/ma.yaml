@@ -19,31 +19,31 @@ languages:
   ara: Arabic
   ber: Berber
 translations:
-  DEU:
+  DE:
     common: Marokko
     official: Königreich Marokko
-  FRA:
+  FR:
     common: Maroc
     official: Royaume du Maroc
-  HRV:
+  HR:
     common: Maroko
     official: Kraljevina Maroko
-  ITA:
+  IT:
     common: Marocco
     official: Regno del Marocco
-  JPN:
+  JP:
     common: モロッコ
     official: モロッコ王国
-  NLD:
+  NL:
     common: Marokko
     official: Koninkrijk Marokko
-  POR:
+  PT:
     common: Marrocos
     official: Reino de Marrocos
-  RUS:
+  RU:
     common: Марокко
     official: Королевство Марокко
-  SPA:
+  ES:
     common: Marruecos
     official: Reino de Marruecos
     nationality: Marroquí

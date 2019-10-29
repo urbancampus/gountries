@@ -3,7 +3,7 @@ name:
   common: Haiti
   official: Republic of Haiti
   native:
-    fra:
+    FR:
       common: Haïti
       official: République d'Haïti
     hat:
@@ -15,31 +15,31 @@ nationality: Haitian
 tlds:
 - ".ht"
 languages:
-  fra: French
+  FR: French
   hat: Haitian Creole
 translations:
-  DEU:
+  DE:
     common: Haiti
     official: Republik Haiti
-  FRA:
+  FR:
     common: Haïti
     official: République d'Haïti
-  ITA:
+  IT:
     common: Haiti
     official: Repubblica di Haiti
-  JPN:
+  JP:
     common: ハイチ
     official: ハイチ共和国
-  NLD:
+  NL:
     common: Haïti
     official: Republiek Haïti
-  POR:
+  PT:
     common: Haiti
     official: República do Haiti
-  RUS:
+  RU:
     common: Гаити
     official: Республика Гаити
-  SPA:
+  ES:
     nationality: Haitiana
 currencies:
 - HTG

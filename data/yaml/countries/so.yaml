@@ -18,25 +18,25 @@ languages:
   ara: Arabic
   som: Somali
 translations:
-  FIN:
+  FI:
     common: Somalia
     official: Somalian liittotasavalta
-  FRA:
+  FR:
     common: Somalie
     official: République fédérale de Somalie
-  HRV:
+  HR:
     common: Somalija
     official: Savezna Republika Somaliji
-  ITA:
+  IT:
     common: Somalia
     official: Repubblica federale di Somalia
-  JPN:
+  JP:
     common: ソマリア
     official: ソマリア連邦共和国
-  NLD:
+  NL:
     common: Somalië
     official: Federale Republiek Somalië
-  POR:
+  PT:
     common: Somália
     official: República Federal da Somália
 currencies:

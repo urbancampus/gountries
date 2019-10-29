@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Britische Jungferninseln
     official: Jungferninseln
-  FRA:
+  FR:
     common: Îles Vierges britanniques
     official: îles Vierges
-  HRV:
+  HR:
     common: Britanski Djevičanski Otoci
     official: Djevičanski Otoci
-  ITA:
+  IT:
     common: Isole Vergini Britanniche
     official: Isole Vergini
-  JPN:
+  JP:
     common: イギリス領ヴァージン諸島
     official: バージン諸島
-  NLD:
+  NL:
     common: Britse Maagdeneilanden
     official: Maagdeneilanden
-  RUS:
+  RU:
     common: Британские Виргинские острова
     official: Виргинские острова
 currencies:

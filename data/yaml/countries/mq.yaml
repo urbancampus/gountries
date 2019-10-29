@@ -3,7 +3,7 @@ name:
   common: Martinique
   official: Martinique
   native:
-    fra:
+    FR:
       common: Martinique
       official: Martinique
 eumember: false
@@ -12,21 +12,21 @@ nationality: Martiniquais, Martinican
 tlds:
 - ".mq"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Martinique
     official: Martinique
-  FRA:
+  FR:
     common: Martinique
     official: Martinique
-  ITA:
+  IT:
     common: Martinica
     official: Martinique
-  JPN:
+  JP:
     common: マルティニーク
     official: マルティニーク島
-  SPA:
+  ES:
     common: Martinica
     official: Martinica
 currencies:

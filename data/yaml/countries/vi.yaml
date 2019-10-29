@@ -14,22 +14,22 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Neitsytsaaret
     official: Yhdysvaltain Neitsytsaaret
-  HRV:
+  HR:
     common: Američki Djevičanski Otoci
     official: Djevičanski Otoci SAD
-  JPN:
+  JP:
     common: アメリカ領ヴァージン諸島
     official: 米国のバージン諸島
-  NLD:
+  NL:
     common: Amerikaanse Maagdeneilanden
     official: Maagdeneilanden van de Verenigde Staten
-  POR:
+  PT:
     common: Ilhas Virgens dos Estados Unidos
     official: Ilhas Virgens dos Estados Unidos
-  SPA:
+  ES:
     common: Islas Vírgenes de los Estados Unidos
     official: Islas Vírgenes de los Estados Unidos
 currencies:

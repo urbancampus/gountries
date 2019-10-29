@@ -15,28 +15,28 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Ägypten
     official: Arabische Republik Ägypten
-  FIN:
+  FI:
     common: Egypti
     official: Egyptin arabitasavalta
-  HRV:
+  HR:
     common: Egipat
     official: Arapska Republika Egipat
-  JPN:
+  JP:
     common: エジプト
     official: エジプト·アラブ共和国
-  NLD:
+  NL:
     common: Egypte
     official: Arabische Republiek Egypte
-  POR:
+  PT:
     common: Egito
     official: República Árabe do Egipto
-  RUS:
+  RU:
     common: Египет
     official: Арабская Республика Египет
-  SPA:
+  ES:
     nationality: Egipcia
 currencies:
 - EGP

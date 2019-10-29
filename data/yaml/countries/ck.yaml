@@ -18,28 +18,28 @@ languages:
   eng: English
   rar: Cook Islands Māori
 translations:
-  CYM:
+  KY:
     common: Ynysoedd Cook
     official: Cook Islands
-  DEU:
+  DE:
     common: Cookinseln
     official: Cook-Inseln
-  FIN:
+  FI:
     common: Cookinsaaret
     official: Cookinsaaret
-  FRA:
+  FR:
     common: Îles Cook
     official: Îles Cook
-  ITA:
+  IT:
     common: Isole Cook
     official: Isole Cook
-  JPN:
+  JP:
     common: クック諸島
     official: クック諸島
-  NLD:
+  NL:
     common: Cookeilanden
     official: Cook eilanden
-  SPA:
+  ES:
     common: Islas Cook
     official: Islas Cook
 currencies:

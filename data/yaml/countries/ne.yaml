@@ -3,7 +3,7 @@ name:
   common: Niger
   official: Republic of Niger
   native:
-    fra:
+    FR:
       common: Niger
       official: République du Niger
 eumember: false
@@ -12,27 +12,27 @@ nationality: Nigerien
 tlds:
 - ".ne"
 languages:
-  fra: French
+  FR: French
 translations:
-  FIN:
+  FI:
     common: Niger
     official: Nigerin tasavalta
-  FRA:
+  FR:
     common: Niger
     official: République du Niger
-  HRV:
+  HR:
     common: Niger
     official: Republika Niger
-  ITA:
+  IT:
     common: Niger
     official: Repubblica del Niger
-  NLD:
+  NL:
     common: Niger
     official: Republiek Niger
-  POR:
+  PT:
     common: Níger
     official: República do Níger
-  SPA:
+  ES:
     common: Níger
     official: República de Níger
 currencies:

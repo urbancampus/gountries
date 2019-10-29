@@ -3,7 +3,7 @@ name:
   common: Guadeloupe
   official: Guadeloupe
   native:
-    fra:
+    FR:
       common: Guadeloupe
       official: Guadeloupe
 eumember: false
@@ -12,24 +12,24 @@ nationality: Guadeloupe
 tlds:
 - ".gp"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Guadeloupe
     official: Guadeloupe
-  FIN:
+  FI:
     common: Guadeloupe
     official: Guadeloupen departmentti
-  HRV:
+  HR:
     common: Gvadalupa
     official: Gvadalupa
-  ITA:
+  IT:
     common: Guadeloupa
     official: Guadeloupe
-  NLD:
+  NL:
     common: Guadeloupe
     official: Guadeloupe
-  RUS:
+  RU:
     common: Гваделупа
     official: Гваделупа
 currencies:

@@ -14,31 +14,31 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Nigeria
     official: Bundesrepublik Nigeria
-  FIN:
+  FI:
     common: Nigeria
     official: Nigerian liittotasavalta
-  FRA:
+  FR:
     common: Nigéria
     official: République fédérale du Nigeria
-  HRV:
+  HR:
     common: Nigerija
     official: Savezna Republika Nigerija
-  ITA:
+  IT:
     common: Nigeria
     official: Repubblica federale di Nigeria
-  NLD:
+  NL:
     common: Nigeria
     official: Federale Republiek Nigeria
-  POR:
+  PT:
     common: Nigéria
     official: República Federal da Nigéria
-  RUS:
+  RU:
     common: Нигерия
     official: Федеративная Республика Нигерия
-  SPA:
+  ES:
     common: Nigeria
     official: República Federal de Nigeria
     nationality: Nigeriana

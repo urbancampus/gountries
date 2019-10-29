@@ -3,7 +3,7 @@ name:
   common: French Guiana
   official: Guiana
   native:
-    fra:
+    FR:
       common: Guyane française
       official: Guyanes
 eumember: false
@@ -12,27 +12,27 @@ nationality: French Guianese
 tlds:
 - ".gf"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Französisch Guyana
     official: Guayana
-  FRA:
+  FR:
     common: Guyane
     official: Guyane
-  HRV:
+  HR:
     common: Francuska Gvajana
     official: Gijana
-  ITA:
+  IT:
     common: Guyana francese
     official: Guiana
-  POR:
+  PT:
     common: Guiana Francesa
     official: Guiana
-  RUS:
+  RU:
     common: Французская Гвиана
     official: Гвиана
-  SPA:
+  ES:
     common: Guayana Francesa
     official: Guayana
 currencies:

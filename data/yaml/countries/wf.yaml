@@ -3,7 +3,7 @@ name:
   common: Wallis and Futuna
   official: Territory of the Wallis and Futuna Islands
   native:
-    fra:
+    FR:
       common: Wallis et Futuna
       official: Territoire des îles Wallis et Futuna
 eumember: false
@@ -12,27 +12,27 @@ nationality: Wallis and Futuna, Wallisian or Futunan
 tlds:
 - ".wf"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Wallis und Futuna
     official: Gebiet der Wallis und Futuna
-  FRA:
+  FR:
     common: Wallis-et-Futuna
     official: Territoire des îles Wallis et Futuna
-  HRV:
+  HR:
     common: Wallis i Fortuna
     official: Teritoriju Wallis i Futuna
-  NLD:
+  NL:
     common: Wallis en Futuna
     official: Grondgebied van de Wallis en Futuna
-  POR:
+  PT:
     common: Wallis e Futuna
     official: Território das Ilhas Wallis e Futuna
-  RUS:
+  RU:
     common: Уоллис и Футуна
     official: Территория Уоллис и Футуна острова
-  SPA:
+  ES:
     common: Wallis y Futuna
     official: Territorio de las Islas Wallis y Futuna
 currencies:

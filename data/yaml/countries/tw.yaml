@@ -16,25 +16,25 @@ tlds:
 languages:
   cmn: Mandarin
 translations:
-  DEU:
+  DE:
     common: Taiwan
     official: Republik China (Taiwan)
-  FIN:
+  FI:
     common: Taiwan
     official: Kiinan tasavalta
-  FRA:
+  FR:
     common: Taïwan
     official: République de Chine (Taïwan)
-  JPN:
+  JP:
     common: 台湾（台湾省/中華民国）
     official: 中華民国
-  NLD:
+  NL:
     common: Taiwan
     official: Republiek China (Taiwan)
-  RUS:
+  RU:
     common: Тайвань
     official: Китайская Республика
-  SPA:
+  ES:
     common: Taiwán
     official: República de China en Taiwán
     nationality: Taiwanés

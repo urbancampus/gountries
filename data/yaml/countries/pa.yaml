@@ -3,7 +3,7 @@ name:
   common: Panama
   official: Republic of Panama
   native:
-    spa:
+    ES:
       common: Panamá
       official: República de Panamá
 eumember: false
@@ -12,21 +12,21 @@ nationality: Panamanian
 tlds:
 - ".pa"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  ITA:
+  IT:
     common: Panama
     official: Repubblica di Panama
-  NLD:
+  NL:
     common: Panama
     official: Republiek Panama
-  POR:
+  PT:
     common: Panamá
     official: República do Panamá
-  RUS:
+  RU:
     common: Панама
     official: Республика Панама
-  SPA:
+  ES:
     nationality: Panameña
 currencies:
 - PAB

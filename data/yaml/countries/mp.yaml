@@ -22,22 +22,22 @@ languages:
   cha: Chamorro
   eng: English
 translations:
-  DEU:
+  DE:
     common: Nördliche Marianen
     official: Commonwealth der Nördlichen Marianen
-  FIN:
+  FI:
     common: Pohjois-Mariaanit
     official: Pohjois-Mariaanit
-  HRV:
+  HR:
     common: Sjevernomarijanski otoci
     official: Zajednica je Sjeverni Marijanski otoci
-  ITA:
+  IT:
     common: Isole Marianne Settentrionali
     official: Commonwealth delle Isole Marianne Settentrionali
-  POR:
+  PT:
     common: Marianas Setentrionais
     official: Comunidade das Ilhas Marianas do Norte
-  RUS:
+  RU:
     common: Северные Марианские острова
     official: Содружество Северных Марианских островов
 currencies:

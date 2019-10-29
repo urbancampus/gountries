@@ -18,22 +18,22 @@ languages:
   ces: Czech
   slk: Slovak
 translations:
-  CYM:
+  KY:
     common: Y Weriniaeth Tsiec
     official: Czech Republic
-  FIN:
+  FI:
     common: Tšekki
     official: Tšekin tasavalta
-  FRA:
+  FR:
     common: République tchèque
     official: République tchèque
-  ITA:
+  IT:
     common: Repubblica Ceca
     official: Repubblica Ceca
-  JPN:
+  JP:
     common: チェコ
     official: チェコ共和国
-  SPA:
+  ES:
     common: República Checa
     official: República Checa
     nationality: Checa

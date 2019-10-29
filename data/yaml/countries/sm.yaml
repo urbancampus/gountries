@@ -3,7 +3,7 @@ name:
   common: San Marino
   official: Most Serene Republic of San Marino
   native:
-    ita:
+    IT:
       common: San Marino
       official: Serenissima Repubblica di San Marino
 eumember: false
@@ -12,21 +12,21 @@ nationality: Sammarinese
 tlds:
 - ".sm"
 languages:
-  ita: Italian
+  IT: Italian
 translations:
-  DEU:
+  DE:
     common: San Marino
     official: Republik San Marino
-  FIN:
+  FI:
     common: San Marino
     official: San Marinon seesteinen tasavalta
-  FRA:
+  FR:
     common: Saint-Marin
     official: République de Saint-Marin
-  POR:
+  PT:
     common: San Marino
     official: Sereníssima República de San Marino
-  SPA:
+  ES:
     common: San Marino
     official: Serenísima República de San Marino
 currencies:

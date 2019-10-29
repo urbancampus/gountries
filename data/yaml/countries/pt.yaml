@@ -3,7 +3,7 @@ name:
   common: Portugal
   official: Portuguese Republic
   native:
-    por:
+    PT:
       common: Portugal
       official: República português
 eumember: true
@@ -12,24 +12,24 @@ nationality: Portuguese
 tlds:
 - ".pt"
 languages:
-  por: Portuguese
+  PT: Portuguese
 translations:
-  DEU:
+  DE:
     common: Portugal
     official: Portugiesische Republik
-  HRV:
+  HR:
     common: Portugal
     official: Portugalska Republika
-  JPN:
+  JP:
     common: ポルトガル
     official: ポルトガル共和国
-  POR:
+  PT:
     common: Portugal
     official: República português
-  RUS:
+  RU:
     common: Португалия
     official: Португальская Республика
-  SPA:
+  ES:
     nationality: Portugués
 currencies:
 - EUR

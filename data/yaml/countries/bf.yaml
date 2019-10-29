@@ -3,7 +3,7 @@ name:
   common: Burkina Faso
   official: Burkina Faso
   native:
-    fra:
+    FR:
       common: Burkina Faso
       official: République du Burkina
 eumember: false
@@ -12,27 +12,27 @@ nationality: Burkinabé
 tlds:
 - ".bf"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Burkina Faso
     official: Burkina Faso
-  FRA:
+  FR:
     common: Burkina Faso
     official: République du Burkina
-  HRV:
+  HR:
     common: Burkina Faso
     official: Burkina Faso
-  ITA:
+  IT:
     common: Burkina Faso
     official: Burkina Faso
-  NLD:
+  NL:
     common: Burkina Faso
     official: Burkina Faso
-  RUS:
+  RU:
     common: Буркина-Фасо
     official: Буркина -Фасо
-  SPA:
+  ES:
     common: Burkina Faso
     official: Burkina Faso
 currencies:

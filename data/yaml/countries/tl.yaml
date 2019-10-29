@@ -3,7 +3,7 @@ name:
   common: Timor-Leste
   official: Democratic Republic of Timor-Leste
   native:
-    por:
+    PT:
       common: Timor-Leste
       official: República Democrática de Timor-Leste
     tet:
@@ -15,28 +15,28 @@ nationality: Timorese
 tlds:
 - ".tl"
 languages:
-  por: Portuguese
+  PT: Portuguese
   tet: Tetum
 translations:
-  DEU:
+  DE:
     common: Timor-Leste
     official: Demokratische Republik Timor-Leste
-  FIN:
+  FI:
     common: Itä-Timor
     official: Itä-Timorin demokraattinen tasavalta
-  HRV:
+  HR:
     common: Istočni Timor
     official: Demokratska Republika Timor-Leste
-  ITA:
+  IT:
     common: Timor Est
     official: Repubblica Democratica di Timor Est
-  JPN:
+  JP:
     common: 東ティモール
     official: 東ティモール民主共和国
-  NLD:
+  NL:
     common: Oost-Timor
     official: Democratische Republiek Oost-Timor
-  POR:
+  PT:
     common: Timor-Leste
     official: República Democrática de Timor-Leste
 currencies:

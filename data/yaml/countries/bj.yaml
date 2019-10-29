@@ -3,7 +3,7 @@ name:
   common: Benin
   official: Republic of Benin
   native:
-    fra:
+    FR:
       common: Bénin
       official: République du Bénin
 eumember: false
@@ -12,30 +12,30 @@ nationality: Beninese, Beninois
 tlds:
 - ".bj"
 languages:
-  fra: French
+  FR: French
 translations:
-  CYM:
+  KY:
     common: Benin
     official: Republic of Benin
-  FIN:
+  FI:
     common: Benin
     official: Beninin tasavalta
-  FRA:
+  FR:
     common: Bénin
     official: République du Bénin
-  HRV:
+  HR:
     common: Benin
     official: Republika Benin
-  JPN:
+  JP:
     common: ベナン
     official: ベナン共和国
-  NLD:
+  NL:
     common: Benin
     official: Republiek Benin
-  POR:
+  PT:
     common: Benin
     official: República do Benin
-  SPA:
+  ES:
     common: Benín
     official: República de Benin
 currencies:

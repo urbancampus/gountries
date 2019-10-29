@@ -3,7 +3,7 @@ name:
   common: Russia
   official: Russian Federation
   native:
-    rus:
+    RU:
       common: Россия
       official: Русская Федерация
 eumember: false
@@ -14,27 +14,27 @@ tlds:
 - ".su"
 - ".рф"
 languages:
-  rus: Russian
+  RU: Russian
 translations:
-  DEU:
+  DE:
     common: Russland
     official: Russische Föderation
-  FIN:
+  FI:
     common: Venäjä
     official: Venäjän federaatio
-  FRA:
+  FR:
     common: Russie
     official: Fédération de Russie
-  HRV:
+  HR:
     common: Rusija
     official: Ruska Federacija
-  POR:
+  PT:
     common: Rússia
     official: Federação Russa
-  RUS:
+  RU:
     common: Россия
     official: Россия Федерация
-  SPA:
+  ES:
     nationality: Rusa
 currencies:
 - RUB

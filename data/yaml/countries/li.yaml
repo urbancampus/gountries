@@ -3,7 +3,7 @@ name:
   common: Liechtenstein
   official: Principality of Liechtenstein
   native:
-    deu:
+    DE:
       common: Liechtenstein
       official: Fürstentum Liechtenstein
 eumember: false
@@ -12,18 +12,18 @@ nationality: Liechtenstein
 tlds:
 - ".li"
 languages:
-  deu: German
+  DE: German
 translations:
-  DEU:
+  DE:
     common: Liechtenstein
     official: Fürstentum Liechtenstein
-  FRA:
+  FR:
     common: Liechtenstein
     official: Principauté du Liechtenstein
-  HRV:
+  HR:
     common: Lihtenštajn
     official: Kneževina Lihtenštajn
-  POR:
+  PT:
     common: Liechtenstein
     official: Principado de Liechtenstein
 currencies:

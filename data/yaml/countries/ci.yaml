@@ -3,7 +3,7 @@ name:
   common: Ivory Coast
   official: Republic of Côte d'Ivoire
   native:
-    fra:
+    FR:
       common: Côte d'Ivoire
       official: République de Côte d'Ivoire
 eumember: false
@@ -12,27 +12,27 @@ nationality: Ivorian
 tlds:
 - ".ci"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Elfenbeinküste
     official: Republik Côte d'Ivoire
-  FIN:
+  FI:
     common: Norsunluurannikko
     official: Norsunluurannikon tasavalta
-  FRA:
+  FR:
     common: Côte d'Ivoire
     official: République de Côte d' Ivoire
-  HRV:
+  HR:
     common: Obala Bjelokosti
     official: Republika Côte d'Ivoire
-  JPN:
+  JP:
     common: コートジボワール
     official: コートジボワール共和国
-  POR:
+  PT:
     common: Costa do Marfim
     official: República da Côte d'Ivoire
-  SPA:
+  ES:
     common: Costa de Marfil
     official: República de Côte d'Ivoire
 currencies:

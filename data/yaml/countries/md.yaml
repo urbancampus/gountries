@@ -14,25 +14,25 @@ tlds:
 languages:
   ron: Moldavian
 translations:
-  DEU:
+  DE:
     common: Moldawie
     official: Republik Moldau
-  FRA:
+  FR:
     common: Moldavie
     official: République de Moldavie
-  HRV:
+  HR:
     common: Moldova
     official: Moldavija
-  JPN:
+  JP:
     common: モルドバ共和国
     official: モルドバ共和国
-  NLD:
+  NL:
     common: Moldavië
     official: Republiek Moldavië
-  RUS:
+  RU:
     common: Молдавия
     official: Молдова
-  SPA:
+  ES:
     common: Moldavia
     official: República de Moldova
 currencies:

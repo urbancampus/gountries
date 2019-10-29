@@ -6,7 +6,7 @@ name:
     eng:
       common: Jersey
       official: Bailiwick of Jersey
-    fra:
+    FR:
       common: Jersey
       official: Bailliage de Jersey
     nrf:
@@ -19,25 +19,25 @@ tlds:
 - ".je"
 languages:
   eng: English
-  fra: French
+  FR: French
   nrf: Jèrriais
 translations:
-  FRA:
+  FR:
     common: Jersey
     official: Bailliage de Jersey
-  HRV:
+  HR:
     common: Jersey
     official: Struka od Jersey
-  ITA:
+  IT:
     common: Isola di Jersey
     official: Baliato di Jersey
-  NLD:
+  NL:
     common: Jersey
     official: Baljuwschap Jersey
-  POR:
+  PT:
     common: Jersey
     official: Bailiado de Jersey
-  SPA:
+  ES:
     common: Jersey
     official: Bailía de Jersey
 currencies:

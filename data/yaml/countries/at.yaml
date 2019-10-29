@@ -14,25 +14,25 @@ tlds:
 languages:
   bar: Austro-Bavarian German
 translations:
-  CYM:
+  KY:
     common: Awstria
     official: Republic of Austria
-  FRA:
+  FR:
     common: Autriche
     official: République d'Autriche
-  ITA:
+  IT:
     common: Austria
     official: Repubblica d'Austria
-  JPN:
+  JP:
     common: オーストリア
     official: オーストリア共和国
-  NLD:
+  NL:
     common: Oostenrijk
     official: Republiek Oostenrijk
-  POR:
+  PT:
     common: Áustria
     official: República da Áustria
-  SPA:
+  ES:
     common: Austria
     official: República de Austria
     nationality: Austríaca

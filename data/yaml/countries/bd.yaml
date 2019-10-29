@@ -14,25 +14,25 @@ tlds:
 languages:
   ben: Bengali
 translations:
-  CYM:
+  KY:
     common: Bangladesh
     official: People's Republic of Bangladesh
-  DEU:
+  DE:
     common: Bangladesch
     official: Volksrepublik Bangladesch
-  FIN:
+  FI:
     common: Bangladesh
     official: Bangladeshin kansantasavalta
-  FRA:
+  FR:
     common: Bangladesh
     official: La République populaire du Bangladesh
-  ITA:
+  IT:
     common: Bangladesh
     official: Repubblica popolare del Bangladesh
-  JPN:
+  JP:
     common: バングラデシュ
     official: バングラデシュ人民共和国
-  SPA:
+  ES:
     common: Bangladesh
     official: República Popular de Bangladesh
     nationality: Bangladeshí

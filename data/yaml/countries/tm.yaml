@@ -3,7 +3,7 @@ name:
   common: Turkmenistan
   official: Turkmenistan
   native:
-    rus:
+    RU:
       common: Туркмения
       official: Туркменистан
     tuk:
@@ -15,25 +15,25 @@ nationality: Turkmen
 tlds:
 - ".tm"
 languages:
-  rus: Russian
+  RU: Russian
   tuk: Turkmen
 translations:
-  DEU:
+  DE:
     common: Turkmenistan
     official: Turkmenistan
-  FRA:
+  FR:
     common: Turkménistan
     official: Turkménistan
-  ITA:
+  IT:
     common: Turkmenistan
     official: Turkmenistan
-  JPN:
+  JP:
     common: トルクメニスタン
     official: トルクメニスタン
-  RUS:
+  RU:
     common: Туркмения
     official: Туркменистан
-  SPA:
+  ES:
     common: Turkmenistán
     official: Turkmenistán
 currencies:

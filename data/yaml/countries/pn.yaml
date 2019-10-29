@@ -14,28 +14,28 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Pitcairn
     official: Pitcairn
-  FRA:
+  FR:
     common: Îles Pitcairn
     official: Groupe d'îles Pitcairn
-  HRV:
+  HR:
     common: Pitcairnovo otočje
     official: Pitcairn skupine otoka
-  JPN:
+  JP:
     common: ピトケアン
     official: 島のピトケアングループ
-  NLD:
+  NL:
     common: Pitcairneilanden
     official: Pitcairn groep eilanden
-  POR:
+  PT:
     common: Ilhas Pitcairn
     official: Pitcairn grupo de ilhas
-  RUS:
+  RU:
     common: Острова Питкэрн
     official: Питкэрн группа островов
-  SPA:
+  ES:
     common: Islas Pitcairn
     official: Grupo de Islas Pitcairn
 currencies:

@@ -9,7 +9,7 @@ name:
     eng:
       common: Belize
       official: Belize
-    spa:
+    ES:
       common: Belice
       official: Belice
 eumember: false
@@ -20,36 +20,36 @@ tlds:
 languages:
   bjz: Belizean Creole
   eng: English
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Belize
     official: Belize
-  FIN:
+  FI:
     common: Belize
     official: Belize
-  FRA:
+  FR:
     common: Belize
     official: Belize
-  HRV:
+  HR:
     common: Belize
     official: Belize
-  ITA:
+  IT:
     common: Belize
     official: Belize
-  JPN:
+  JP:
     common: ベリーズ
     official: ベリーズ
-  NLD:
+  NL:
     common: Belize
     official: Belize
-  POR:
+  PT:
     common: Belize
     official: Belize
-  RUS:
+  RU:
     common: Белиз
     official: Белиз
-  SPA:
+  ES:
     common: Belice
     official: Belice
 currencies:

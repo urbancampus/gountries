@@ -3,7 +3,7 @@ name:
   common: El Salvador
   official: Republic of El Salvador
   native:
-    spa:
+    ES:
       common: El Salvador
       official: República de El Salvador
 eumember: false
@@ -12,30 +12,30 @@ nationality: Salvadoran
 tlds:
 - ".sv"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: El Salvador
     official: Republic of El Salvador
-  DEU:
+  DE:
     common: El Salvador
     official: Republik El Salvador
-  FIN:
+  FI:
     common: El Salvador
     official: El Salvadorin tasavalta
-  HRV:
+  HR:
     common: Salvador
     official: Republika El Salvador
-  JPN:
+  JP:
     common: エルサルバドル
     official: エルサルバドル共和国
-  NLD:
+  NL:
     common: El Salvador
     official: Republiek El Salvador
-  POR:
+  PT:
     common: El Salvador
     official: República de El Salvador
-  SPA:
+  ES:
     nationality: Salvadoreña
 currencies:
 - SVC

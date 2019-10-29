@@ -18,13 +18,13 @@ languages:
   eng: English
   pau: Palauan
 translations:
-  FIN:
+  FI:
     common: Palau
     official: Palaun tasavalta
-  HRV:
+  HR:
     common: Palau
     official: Republika Palau
-  NLD:
+  NL:
     common: Palau
     official: Republiek van Palau
 currencies:

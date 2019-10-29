@@ -6,7 +6,7 @@ name:
     aze:
       common: Azərbaycan
       official: Azərbaycan Respublikası
-    rus:
+    RU:
       common: Азербайджан
       official: Азербайджанская Республика
 eumember: false
@@ -16,24 +16,24 @@ tlds:
 - ".az"
 languages:
   aze: Azerbaijani
-  rus: Russian
+  RU: Russian
 translations:
-  DEU:
+  DE:
     common: Aserbaidschan
     official: Republik Aserbaidschan
-  ITA:
+  IT:
     common: Azerbaijan
     official: Repubblica dell'Azerbaigian
-  JPN:
+  JP:
     common: アゼルバイジャン
     official: アゼルバイジャン共和国
-  POR:
+  PT:
     common: Azerbeijão
     official: República do Azerbaijão
-  RUS:
+  RU:
     common: Азербайджан
     official: Азербайджанская Республика
-  SPA:
+  ES:
     common: Azerbaiyán
     official: República de Azerbaiyán
 currencies:

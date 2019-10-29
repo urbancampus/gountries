@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  FRA:
+  FR:
     common: Royaume-Uni
     official: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
-  HRV:
+  HR:
     common: Ujedinjeno Kraljevstvo
     official: Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske
-  ITA:
+  IT:
     common: Regno Unito
     official: Regno Unito di Gran Bretagna e Irlanda del Nord
-  NLD:
+  NL:
     common: Verenigd Koninkrijk
     official: Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-  POR:
+  PT:
     common: Reino Unido
     official: Reino Unido da Grã-Bretanha e Irlanda do Norte
-  RUS:
+  RU:
     common: Великобритания
     official: Соединенное Королевство Великобритании и Северной Ирландии
-  SPA:
+  ES:
     common: Reino Unido
     official: Reino Unido de Gran Bretaña e Irlanda del Norte
     nationality: " uk"

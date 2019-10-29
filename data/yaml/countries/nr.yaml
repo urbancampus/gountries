@@ -18,28 +18,28 @@ languages:
   eng: English
   nau: Nauru
 translations:
-  DEU:
+  DE:
     common: Nauru
     official: Republik Nauru
-  FIN:
+  FI:
     common: Nauru
     official: Naurun tasavalta
-  FRA:
+  FR:
     common: Nauru
     official: République de Nauru
-  ITA:
+  IT:
     common: Nauru
     official: Repubblica di Nauru
-  JPN:
+  JP:
     common: ナウル
     official: ナウル共和国
-  NLD:
+  NL:
     common: Nauru
     official: Republiek Nauru
-  RUS:
+  RU:
     common: Науру
     official: Республика Науру
-  SPA:
+  ES:
     common: Nauru
     official: República de Nauru
 currencies:

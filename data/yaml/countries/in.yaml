@@ -22,28 +22,28 @@ languages:
   hin: Hindi
   tam: Tamil
 translations:
-  DEU:
+  DE:
     common: Indien
     official: Republik Indien
-  FIN:
+  FI:
     common: Intia
     official: Intian tasavalta
-  FRA:
+  FR:
     common: Inde
     official: République de l'Inde
-  HRV:
+  HR:
     common: Indija
     official: Republika Indija
-  JPN:
+  JP:
     common: インド
     official: インド共和国
-  POR:
+  PT:
     common: Índia
     official: República da Índia
-  RUS:
+  RU:
     common: Индия
     official: Республика Индия
-  SPA:
+  ES:
     common: India
     official: República de la India
     nationality: India

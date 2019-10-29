@@ -9,7 +9,7 @@ name:
     eng:
       common: Guam
       official: Guam
-    spa:
+    ES:
       common: Guam
       official: Guam
 eumember: false
@@ -20,21 +20,21 @@ tlds:
 languages:
   cha: Chamorro
   eng: English
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Guam
     official: Guam
-  FRA:
+  FR:
     common: Guam
     official: Guam
-  HRV:
+  HR:
     common: Guam
     official: Guam
-  ITA:
+  IT:
     common: Guam
     official: Guam
-  SPA:
+  ES:
     common: Guam
     official: Guam
 currencies:

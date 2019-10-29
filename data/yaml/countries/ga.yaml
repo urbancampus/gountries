@@ -3,7 +3,7 @@ name:
   common: Gabon
   official: Gabonese Republic
   native:
-    fra:
+    FR:
       common: Gabon
       official: République gabonaise
 eumember: false
@@ -12,27 +12,27 @@ nationality: Gabonese
 tlds:
 - ".ga"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Gabun
     official: Gabunische Republik
-  FIN:
+  FI:
     common: Gabon
     official: Gabonin tasavalta
-  HRV:
+  HR:
     common: Gabon
     official: Gabon Republika
-  ITA:
+  IT:
     common: Gabon
     official: Repubblica gabonese
-  NLD:
+  NL:
     common: Gabon
     official: Republiek Gabon
-  POR:
+  PT:
     common: Gabão
     official: República do Gabão
-  RUS:
+  RU:
     common: Габон
     official: Габона Республика
 currencies:

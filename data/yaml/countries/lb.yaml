@@ -6,7 +6,7 @@ name:
     ara:
       common: لبنان
       official: الجمهورية اللبنانية
-    fra:
+    FR:
       common: Liban
       official: République libanaise
 eumember: false
@@ -16,30 +16,30 @@ tlds:
 - ".lb"
 languages:
   ara: Arabic
-  fra: French
+  FR: French
 translations:
-  FIN:
+  FI:
     common: Libanon
     official: Libanonin tasavalta
-  FRA:
+  FR:
     common: Liban
     official: République libanaise
-  HRV:
+  HR:
     common: Libanon
     official: Libanonska Republika
-  ITA:
+  IT:
     common: Libano
     official: Repubblica libanese
-  JPN:
+  JP:
     common: レバノン
     official: レバノン共和国
-  POR:
+  PT:
     common: Líbano
     official: República Libanesa
-  RUS:
+  RU:
     common: Ливан
     official: Ливанская Республика
-  SPA:
+  ES:
     common: Líbano
     official: República Libanesa
     nationality: Libanés

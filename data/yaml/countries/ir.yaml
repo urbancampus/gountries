@@ -15,16 +15,16 @@ tlds:
 languages:
   fas: Persian
 translations:
-  DEU:
+  DE:
     common: Iran
     official: Islamische Republik Iran
-  FRA:
+  FR:
     common: Iran
     official: République islamique d'Iran
-  JPN:
+  JP:
     common: イラン・イスラム共和国
     official: イラン·イスラム共和国
-  SPA:
+  ES:
     common: Iran
     official: República Islámica de Irán
     nationality: Iraní

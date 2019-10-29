@@ -3,7 +3,7 @@ name:
   common: Finland
   official: Republic of Finland
   native:
-    fin:
+    FI:
       common: Suomi
       official: Suomen tasavalta
     swe:
@@ -15,31 +15,31 @@ nationality: Finnish
 tlds:
 - ".fi"
 languages:
-  fin: Finnish
+  FI: Finnish
   swe: Swedish
 translations:
-  FRA:
+  FR:
     common: Finlande
     official: République de Finlande
-  HRV:
+  HR:
     common: Finska
     official: Republika Finska
-  ITA:
+  IT:
     common: Finlandia
     official: Repubblica di Finlandia
-  JPN:
+  JP:
     common: フィンランド
     official: フィンランド共和国
-  NLD:
+  NL:
     common: Finland
     official: Republiek Finland
-  POR:
+  PT:
     common: Finlândia
     official: República da Finlândia
-  RUS:
+  RU:
     common: Финляндия
     official: Финляндская Республика
-  SPA:
+  ES:
     common: Finlandia
     official: República de Finlandia
     nationality: Finlandés

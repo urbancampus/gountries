@@ -3,7 +3,7 @@ name:
   common: DR Congo
   official: Democratic Republic of the Congo
   native:
-    fra:
+    FR:
       common: RD Congo
       official: République démocratique du Congo
     kon:
@@ -24,37 +24,37 @@ nationality: Congolese
 tlds:
 - ".cd"
 languages:
-  fra: French
+  FR: French
   kon: Kikongo
   lin: Lingala
   lua: Tshiluba
   swa: Swahili
 translations:
-  CYM:
+  KY:
     common: Gweriniaeth Ddemocrataidd Congo
     official: Democratic Republic of the Congo
-  DEU:
+  DE:
     common: Kongo (Dem. Rep.)
     official: Demokratische Republik Kongo
-  HRV:
+  HR:
     common: Kongo, Demokratska Republika
     official: Demokratska Republika Kongo
-  ITA:
+  IT:
     common: Congo (Rep. Dem.)
     official: Repubblica Democratica del Congo
-  JPN:
+  JP:
     common: コンゴ民主共和国
     official: コンゴ民主共和国
-  NLD:
+  NL:
     common: Congo (DRC)
     official: Democratische Republiek Congo
-  POR:
+  PT:
     common: República Democrática do Congo
     official: República Democrática do Congo
-  RUS:
+  RU:
     common: Демократическая Республика Конго
     official: Демократическая Республика Конго
-  SPA:
+  ES:
     common: Congo (Rep. Dem.)
     official: República Democrática del Congo
 currencies:

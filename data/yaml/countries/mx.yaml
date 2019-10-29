@@ -3,7 +3,7 @@ name:
   common: Mexico
   official: United Mexican States
   native:
-    spa:
+    ES:
       common: México
       official: Estados Unidos Mexicanos
 eumember: false
@@ -12,30 +12,30 @@ nationality: Mexican
 tlds:
 - ".mx"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Mexiko
     official: Vereinigte Mexikanische Staaten
-  FIN:
+  FI:
     common: Meksiko
     official: Meksikon yhdysvallat
-  FRA:
+  FR:
     common: Mexique
     official: États-Unis du Mexique
-  HRV:
+  HR:
     common: Meksiko
     official: Sjedinjene Meksičke Države
-  ITA:
+  IT:
     common: Messico
     official: Stati Uniti del Messico
-  NLD:
+  NL:
     common: Mexico
     official: Verenigde Mexicaanse Staten
-  RUS:
+  RU:
     common: Мексика
     official: Мексиканских Соединенных Штатов
-  SPA:
+  ES:
     nationality: Mexicana
 currencies:
 - MXN

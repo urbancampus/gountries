@@ -3,7 +3,7 @@ name:
   common: Netherlands
   official: Netherlands
   native:
-    nld:
+    NL:
       common: Nederland
       official: Nederland
 eumember: true
@@ -12,21 +12,21 @@ nationality: Dutch, Netherlandic
 tlds:
 - ".nl"
 languages:
-  nld: Dutch
+  NL: Dutch
 translations:
-  FIN:
+  FI:
     common: Alankomaat
     official: Alankomaat
-  FRA:
+  FR:
     common: Pays-Bas
     official: Pays-Bas
-  HRV:
+  HR:
     common: Nizozemska
     official: Holandija
-  JPN:
+  JP:
     common: オランダ
     official: オランダ
-  SPA:
+  ES:
     common: Países Bajos
     official: Países Bajos
     nationality: Neerlandés

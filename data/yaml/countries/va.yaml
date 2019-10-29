@@ -3,7 +3,7 @@ name:
   common: Vatican City
   official: Vatican City State
   native:
-    ita:
+    IT:
       common: Vaticano
       official: Stato della Città del Vaticano
     lat:
@@ -15,25 +15,25 @@ nationality: Vatican
 tlds:
 - ".va"
 languages:
-  ita: Italian
+  IT: Italian
   lat: Latin
 translations:
-  DEU:
+  DE:
     common: Vatikanstadt
     official: Staat Vatikanstadt
-  FIN:
+  FI:
     common: Vatikaani
     official: Vatikaanin kaupunkivaltio
-  FRA:
+  FR:
     common: Cité du Vatican
     official: Cité du Vatican
-  HRV:
+  HR:
     common: Vatikan
     official: Vatikan
-  POR:
+  PT:
     common: Cidade do Vaticano
     official: Cidade do Vaticano
-  RUS:
+  RU:
     common: Ватикан
     official: Город-государство Ватикан
 currencies:

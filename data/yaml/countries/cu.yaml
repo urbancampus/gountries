@@ -3,7 +3,7 @@ name:
   common: Cuba
   official: Republic of Cuba
   native:
-    spa:
+    ES:
       common: Cuba
       official: República de Cuba
 eumember: false
@@ -12,33 +12,33 @@ nationality: Cuban
 tlds:
 - ".cu"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Ciwba
     official: Republic of Cuba
-  DEU:
+  DE:
     common: Kuba
     official: Republik Kuba
-  FIN:
+  FI:
     common: Kuuba
     official: Kuuban tasavalta
-  HRV:
+  HR:
     common: Kuba
     official: Republika Kuba
-  ITA:
+  IT:
     common: Cuba
     official: Repubblica di Cuba
-  JPN:
+  JP:
     common: キューバ
     official: キューバ共和国
-  NLD:
+  NL:
     common: Cuba
     official: Republiek Cuba
-  POR:
+  PT:
     common: Cuba
     official: República de Cuba
-  SPA:
+  ES:
     nationality: Cubana
 currencies:
 - CUC

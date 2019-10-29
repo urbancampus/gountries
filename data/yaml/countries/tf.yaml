@@ -3,7 +3,7 @@ name:
   common: French Southern and Antarctic Lands
   official: Territory of the French Southern and Antarctic Lands
   native:
-    fra:
+    FR:
       common: Terres australes et antarctiques françaises
       official: Territoire des Terres australes et antarctiques françaises
 eumember: false
@@ -12,27 +12,27 @@ nationality: French Southern Territories
 tlds:
 - ".tf"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Französische Süd-und Antarktisgebiete
     official: Gebiet der Französisch Süd-und Antarktisgebiete
-  HRV:
+  HR:
     common: Francuski južni i antarktički teritoriji
     official: Teritoriju Francuski južni i antarktički teritoriji
-  ITA:
+  IT:
     common: Territori Francesi del Sud
     official: Territorio della australi e antartiche francesi Terre
-  JPN:
+  JP:
     common: フランス領南方・南極地域
     official: フランス領南方·南極地域の領土
-  NLD:
+  NL:
     common: Franse Gebieden in de zuidelijke Indische Oceaan
     official: Grondgebied van de Franse Zuidelijke en Antarctische gebieden
-  RUS:
+  RU:
     common: Французские Южные и Антарктические территории
     official: Территория Французские Южные и Антарктические земли
-  SPA:
+  ES:
     common: Tierras Australes y Antárticas Francesas
     official: Territorio del Francés Tierras australes y antárticas
 currencies:

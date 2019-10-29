@@ -14,16 +14,16 @@ tlds:
 languages:
   eng: English
 translations:
-  JPN:
+  JP:
     common: クリスマス島
     official: クリスマス島の領土
-  POR:
+  PT:
     common: Ilha do Natal
     official: Território da Ilha Christmas
-  RUS:
+  RU:
     common: Остров Рождества
     official: Территория острова Рождества
-  SPA:
+  ES:
     common: Isla de Navidad
     official: Territorio de la Isla de Navidad
 currencies:

@@ -6,7 +6,7 @@ name:
     eng:
       common: Guernsey
       official: Bailiwick of Guernsey
-    fra:
+    FR:
       common: Guernesey
       official: Bailliage de Guernesey
     nfr:
@@ -19,22 +19,22 @@ tlds:
 - ".gg"
 languages:
   eng: English
-  fra: French
+  FR: French
   nfr: Guernésiais
 translations:
-  FRA:
+  FR:
     common: Guernesey
     official: Bailliage de Guernesey
-  HRV:
+  HR:
     common: Guernsey
     official: Struka Guernsey
-  JPN:
+  JP:
     common: ガーンジー
     official: ガーンジーの得意分野
-  NLD:
+  NL:
     common: Guernsey
     official: Baljuwschap Guernsey
-  SPA:
+  ES:
     common: Guernsey
     official: Bailía de Guernsey
 currencies:

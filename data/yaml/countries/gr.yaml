@@ -14,22 +14,22 @@ tlds:
 languages:
   ell: Greek
 translations:
-  DEU:
+  DE:
     common: Griechenland
     official: Hellenische Republik
-  FIN:
+  FI:
     common: Kreikka
     official: Helleenien tasavalta
-  FRA:
+  FR:
     common: Grèce
     official: République hellénique
-  ITA:
+  IT:
     common: Grecia
     official: Repubblica ellenica
-  POR:
+  PT:
     common: Grécia
     official: República Helénica
-  SPA:
+  ES:
     common: Grecia
     official: República Helénica
     nationality: " hellenic"

@@ -3,7 +3,7 @@ name:
   common: Ecuador
   official: Republic of Ecuador
   native:
-    spa:
+    ES:
       common: Ecuador
       official: República del Ecuador
 eumember: false
@@ -12,27 +12,27 @@ nationality: Ecuadorian
 tlds:
 - ".ec"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Ecwador
     official: Republic of Ecuador
-  FRA:
+  FR:
     common: Équateur
     official: République de l'Équateur
-  HRV:
+  HR:
     common: Ekvador
     official: Republika Ekvador
-  NLD:
+  NL:
     common: Ecuador
     official: Republiek Ecuador
-  POR:
+  PT:
     common: Equador
     official: República do Equador
-  RUS:
+  RU:
     common: Эквадор
     official: Республика Эквадор
-  SPA:
+  ES:
     nationality: Ecuatoriana
 currencies:
 - USD

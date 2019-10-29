@@ -14,22 +14,22 @@ tlds:
 languages:
   eng: English
 translations:
-  CYM:
+  KY:
     common: Ynysoedd_Cayman
     official: Cayman Islands
-  DEU:
+  DE:
     common: Kaimaninseln
     official: Cayman-Inseln
-  FIN:
+  FI:
     common: Caymansaaret
     official: Caymansaaret
-  ITA:
+  IT:
     common: Isole Cayman
     official: Isole Cayman
-  NLD:
+  NL:
     common: Caymaneilanden
     official: Caymaneilanden
-  POR:
+  PT:
     common: Ilhas Caimão
     official: Ilhas Cayman
 currencies:

@@ -14,25 +14,25 @@ tlds:
 languages:
   mya: Burmese
 translations:
-  DEU:
+  DE:
     common: Myanmar
     official: Republik der Union von Myanmar
-  FIN:
+  FI:
     common: Myanmar
     official: Myanmarin liiton tasavalta
-  FRA:
+  FR:
     common: Birmanie
     official: République de l'Union du Myanmar
-  HRV:
+  HR:
     common: Mijanmar
     official: Republika Unije Mijanmar
-  POR:
+  PT:
     common: Myanmar
     official: República da União de Myanmar
-  RUS:
+  RU:
     common: Мьянма
     official: Республика Союза Мьянма
-  SPA:
+  ES:
     common: Myanmar
     official: República de la Unión de Myanmar
 currencies:

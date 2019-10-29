@@ -15,22 +15,22 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  FIN:
+  FI:
     common: Arabiemiraatit
     official: Yhdistyneet arabiemiirikunnat
-  FRA:
+  FR:
     common: Émirats arabes unis
     official: Émirats arabes unis
-  ITA:
+  IT:
     common: Emirati Arabi Uniti
     official: Emirati Arabi Uniti
-  JPN:
+  JP:
     common: アラブ首長国連邦
     official: アラブ首長国連邦
-  RUS:
+  RU:
     common: Объединённые Арабские Эмираты
     official: Объединенные Арабские Эмираты
-  SPA:
+  ES:
     common: Emiratos Árabes Unidos
     official: Emiratos Árabes Unidos
     nationality: Emiratí

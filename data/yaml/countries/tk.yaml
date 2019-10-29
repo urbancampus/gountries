@@ -22,28 +22,28 @@ languages:
   smo: Samoan
   tkl: Tokelauan
 translations:
-  FIN:
+  FI:
     common: Tokelau
     official: Tokelau
-  HRV:
+  HR:
     common: Tokelau
     official: Tokelau
-  ITA:
+  IT:
     common: Isole Tokelau
     official: Tokelau
-  JPN:
+  JP:
     common: トケラウ
     official: トケラウ諸島
-  NLD:
+  NL:
     common: Tokelau
     official: Tokelau
-  POR:
+  PT:
     common: Tokelau
     official: Tokelau
-  RUS:
+  RU:
     common: Токелау
     official: Токелау
-  SPA:
+  ES:
     common: Islas Tokelau
     official: Tokelau
 currencies:

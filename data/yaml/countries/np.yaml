@@ -14,25 +14,25 @@ tlds:
 languages:
   nep: Nepali
 translations:
-  DEU:
+  DE:
     common: Népal
     official: Demokratischen Bundesrepublik Nepal
-  FIN:
+  FI:
     common: Nepal
     official: Nepalin demokraattinen liittotasavalta
-  FRA:
+  FR:
     common: Népal
     official: République du Népal
-  HRV:
+  HR:
     common: Nepal
     official: Savezna Demokratska Republika Nepal
-  ITA:
+  IT:
     common: Nepal
     official: Repubblica federale democratica del Nepal
-  NLD:
+  NL:
     common: Nepal
     official: Federale Democratische Republiek Nepal
-  SPA:
+  ES:
     nationality: " nepalese"
 currencies:
 - NPR

@@ -14,25 +14,25 @@ tlds:
 languages:
   lit: Lithuanian
 translations:
-  DEU:
+  DE:
     common: Litauen
     official: Republik Litauen
-  FIN:
+  FI:
     common: Liettua
     official: Liettuan tasavalta
-  HRV:
+  HR:
     common: Litva
     official: Republika Litva
-  ITA:
+  IT:
     common: Lituania
     official: Repubblica di Lituania
-  JPN:
+  JP:
     common: リトアニア
     official: リトアニア共和国
-  POR:
+  PT:
     common: Lituânia
     official: República da Lituânia
-  SPA:
+  ES:
     common: Lituania
     official: República de Lituania
     nationality: Lituana

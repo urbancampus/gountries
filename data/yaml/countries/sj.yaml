@@ -14,22 +14,22 @@ tlds:
 languages:
   nor: Norwegian
 translations:
-  DEU:
+  DE:
     common: Spitzbergen
     official: Inselgruppe Spitzbergen
-  FIN:
+  FI:
     common: Huippuvuoret
     official: Huippuvuoret
-  FRA:
+  FR:
     common: Svalbard et Jan Mayen
     official: Jan Mayen Svalbard
-  JPN:
+  JP:
     common: スヴァールバル諸島およびヤンマイエン島
     official: スバールバル諸島OGヤンマイエン
-  RUS:
+  RU:
     common: Шпицберген и Ян-Майен
     official: Свальбарда ог Ян-Майен
-  SPA:
+  ES:
     common: Islas Svalbard y Jan Mayen
     official: Svalbard og Jan Mayen
 currencies:

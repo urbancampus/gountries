@@ -6,7 +6,7 @@ name:
     eng:
       common: Mauritius
       official: Republic of Mauritius
-    fra:
+    FR:
       common: Maurice
       official: République de Maurice
     mfe:
@@ -19,25 +19,25 @@ tlds:
 - ".mu"
 languages:
   eng: English
-  fra: French
+  FR: French
   mfe: Mauritian Creole
 translations:
-  DEU:
+  DE:
     common: Mauritius
     official: Republik Mauritius
-  FRA:
+  FR:
     common: Île Maurice
     official: République de Maurice
-  JPN:
+  JP:
     common: モーリシャス
     official: モーリシャス共和国
-  NLD:
+  NL:
     common: Mauritius
     official: Republiek Mauritius
-  POR:
+  PT:
     common: Maurício
     official: República das Maurícias
-  RUS:
+  RU:
     common: Маврикий
     official: Республика Маврикий
 currencies:

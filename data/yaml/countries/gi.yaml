@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Gibraltar
     official: Gibraltar
-  FIN:
+  FI:
     common: Gibraltar
     official: Gibraltar
-  ITA:
+  IT:
     common: Gibilterra
     official: Gibilterra
-  JPN:
+  JP:
     common: ジブラルタル
     official: ジブラルタル
-  NLD:
+  NL:
     common: Gibraltar
     official: Gibraltar
-  RUS:
+  RU:
     common: Гибралтар
     official: Гибралтар
-  SPA:
+  ES:
     common: Gibraltar
     official: Gibraltar
 currencies:

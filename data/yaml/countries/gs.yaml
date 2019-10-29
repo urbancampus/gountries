@@ -14,28 +14,28 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Südgeorgien und die Südlichen Sandwichinseln
     official: Südgeorgien und die Südlichen Sandwichinseln
-  FIN:
+  FI:
     common: Etelä-Georgia ja Eteläiset Sandwichsaaret
     official: Etelä-Georgia ja Eteläiset Sandwichsaaret
-  HRV:
+  HR:
     common: Južna Georgija i otočje Južni Sandwich
     official: Južna Džordžija i Otoci Južni Sendvič
-  ITA:
+  IT:
     common: Georgia del Sud e Isole Sandwich Meridionali
     official: Georgia del Sud e isole Sandwich del Sud
-  JPN:
+  JP:
     common: サウスジョージア・サウスサンドウィッチ諸島
     official: サウスジョージア·サウスサンドウィッチ諸島
-  NLD:
+  NL:
     common: Zuid-Georgia en Zuidelijke Sandwicheilanden
     official: Zuid-Georgië en de Zuidelijke Sandwich-eilanden
-  RUS:
+  RU:
     common: Южная Георгия и Южные Сандвичевы острова
     official: Южная Георгия и Южные Сандвичевы острова
-  SPA:
+  ES:
     common: Islas Georgias del Sur y Sandwich del Sur
     official: Georgia del Sur y las Islas Sandwich del Sur
 currencies:

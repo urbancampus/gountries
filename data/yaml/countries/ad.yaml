@@ -14,28 +14,28 @@ tlds:
 languages:
   cat: Catalan
 translations:
-  DEU:
+  DE:
     common: Andorra
     official: Fürstentum Andorra
-  FIN:
+  FI:
     common: Andorra
     official: Andorran ruhtinaskunta
-  HRV:
+  HR:
     common: Andora
     official: Kneževina Andora
-  ITA:
+  IT:
     common: Andorra
     official: Principato di Andorra
-  NLD:
+  NL:
     common: Andorra
     official: Prinsdom Andorra
-  POR:
+  PT:
     common: Andorra
     official: Principado de Andorra
-  RUS:
+  RU:
     common: Андорра
     official: Княжество Андорра
-  SPA:
+  ES:
     common: Andorra
     official: Principado de Andorra
 currencies:

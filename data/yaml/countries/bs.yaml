@@ -14,28 +14,28 @@ tlds:
 languages:
   eng: English
 translations:
-  CYM:
+  KY:
     common: Bahamas
     official: Commonwealth of the Bahamas
-  FIN:
+  FI:
     common: Bahamasaaret
     official: Bahaman liittovaltio
-  FRA:
+  FR:
     common: Bahamas
     official: Commonwealth des Bahamas
-  HRV:
+  HR:
     common: Bahami
     official: Zajednica Bahama
-  ITA:
+  IT:
     common: Bahamas
     official: Commonwealth delle Bahamas
-  JPN:
+  JP:
     common: バハマ
     official: バハマ
-  RUS:
+  RU:
     common: Багамские Острова
     official: Содружество Багамских Островов
-  SPA:
+  ES:
     common: Bahamas
     official: Commonwealth de las Bahamas
 currencies:

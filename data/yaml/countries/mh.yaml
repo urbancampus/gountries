@@ -18,28 +18,28 @@ languages:
   eng: English
   mah: Marshallese
 translations:
-  DEU:
+  DE:
     common: Marshallinseln
     official: Republik der Marshall-Inseln
-  FIN:
+  FI:
     common: Marshallinsaaret
     official: Marshallinsaarten tasavalta
-  HRV:
+  HR:
     common: Maršalovi Otoci
     official: Republika Maršalovi Otoci
-  ITA:
+  IT:
     common: Isole Marshall
     official: Repubblica delle Isole Marshall
-  JPN:
+  JP:
     common: マーシャル諸島
     official: マーシャル諸島共和国
-  NLD:
+  NL:
     common: Marshalleilanden
     official: Republiek van de Marshall-eilanden
-  RUS:
+  RU:
     common: Маршалловы Острова
     official: Республика Маршалловы острова
-  SPA:
+  ES:
     common: Islas Marshall
     official: República de las Islas Marshall
 currencies:

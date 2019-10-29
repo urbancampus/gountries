@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Falklandinseln
     official: Falkland-Inseln
-  FIN:
+  FI:
     common: Falkandinsaaret
     official: Falkandinsaaret
-  FRA:
+  FR:
     common: Îles Malouines
     official: Îles Malouines
-  HRV:
+  HR:
     common: Falklandski Otoci
     official: Falklandski otoci
-  ITA:
+  IT:
     common: Isole Falkland o Isole Malvine
     official: Isole Falkland
-  NLD:
+  NL:
     common: Falklandeilanden
     official: Falkland eilanden
-  SPA:
+  ES:
     common: Islas Malvinas
     official: islas Malvinas
 currencies:

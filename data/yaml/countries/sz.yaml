@@ -18,31 +18,31 @@ languages:
   eng: English
   ssw: Swazi
 translations:
-  DEU:
+  DE:
     common: Swasiland
     official: Königreich Swasiland
-  FIN:
+  FI:
     common: Swazimaa
     official: Swazimaan kuningaskunta
-  FRA:
+  FR:
     common: Swaziland
     official: Royaume du Swaziland
-  HRV:
+  HR:
     common: Svazi
     official: Kraljevina Svazi
-  ITA:
+  IT:
     common: Swaziland
     official: Regno dello Swaziland
-  JPN:
+  JP:
     common: スワジランド
     official: スワジランド王国
-  NLD:
+  NL:
     common: Swaziland
     official: Koninkrijk Swaziland
-  POR:
+  PT:
     common: Suazilândia
     official: Reino da Suazilândia
-  RUS:
+  RU:
     common: Свазиленд
     official: Королевство Свазиленд
 currencies:

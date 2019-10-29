@@ -14,22 +14,22 @@ tlds:
 languages:
   tur: Turkish
 translations:
-  DEU:
+  DE:
     common: Türkei
     official: Republik Türkei
-  FIN:
+  FI:
     common: Turkki
     official: Turkin tasavalta
-  ITA:
+  IT:
     common: Turchia
     official: Repubblica di Turchia
-  POR:
+  PT:
     common: Turquia
     official: República da Turquia
-  RUS:
+  RU:
     common: Турция
     official: Республика Турции
-  SPA:
+  ES:
     common: Turquía
     official: República de Turquía
     nationality: Turca

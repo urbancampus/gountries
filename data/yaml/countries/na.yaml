@@ -6,7 +6,7 @@ name:
     afr:
       common: Namibië
       official: Republiek van Namibië
-    deu:
+    DE:
       common: Namibia
       official: Republik Namibia
     eng:
@@ -37,7 +37,7 @@ tlds:
 - ".na"
 languages:
   afr: Afrikaans
-  deu: German
+  DE: German
   eng: English
   her: Herero
   hgm: Khoekhoe
@@ -46,25 +46,25 @@ languages:
   ndo: Ndonga
   tsn: Tswana
 translations:
-  DEU:
+  DE:
     common: Namibia
     official: Republik Namibia
-  FIN:
+  FI:
     common: Namibia
     official: Namibian tasavalta
-  HRV:
+  HR:
     common: Namibija
     official: Republika Namibija
-  JPN:
+  JP:
     common: ナミビア
     official: ナミビア共和国
-  NLD:
+  NL:
     common: Namibië
     official: Republiek Namibië
-  RUS:
+  RU:
     common: Намибия
     official: Республика Намибия
-  SPA:
+  ES:
     common: Namibia
     official: República de Namibia
     nationality: Namibia

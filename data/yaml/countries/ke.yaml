@@ -18,31 +18,31 @@ languages:
   eng: English
   swa: Swahili
 translations:
-  DEU:
+  DE:
     common: Kenia
     official: Republik Kenia
-  FIN:
+  FI:
     common: Kenia
     official: Kenian tasavalta
-  FRA:
+  FR:
     common: Kenya
     official: République du Kenya
-  HRV:
+  HR:
     common: Kenija
     official: Republika Kenija
-  ITA:
+  IT:
     common: Kenya
     official: Repubblica del Kenya
-  NLD:
+  NL:
     common: Kenia
     official: Republiek Kenia
-  POR:
+  PT:
     common: Quénia
     official: República do Quénia
-  RUS:
+  RU:
     common: Кения
     official: Республика Кения
-  SPA:
+  ES:
     common: Kenia
     official: República de Kenya
     nationality: Keniata

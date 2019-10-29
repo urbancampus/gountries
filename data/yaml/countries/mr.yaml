@@ -14,16 +14,16 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  FIN:
+  FI:
     common: Mauritania
     official: Mauritanian islamilainen tasavalta
-  FRA:
+  FR:
     common: Mauritanie
     official: République islamique de Mauritanie
-  ITA:
+  IT:
     common: Mauritania
     official: Repubblica islamica di Mauritania
-  RUS:
+  RU:
     common: Мавритания
     official: Исламская Республика Мавритания
 currencies:

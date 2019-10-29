@@ -3,7 +3,7 @@ name:
   common: Ukraine
   official: Ukraine
   native:
-    rus:
+    RU:
       common: Украина
       official: Украина
     ukr:
@@ -16,13 +16,13 @@ tlds:
 - ".ua"
 - ".укр"
 languages:
-  rus: Russian
+  RU: Russian
   ukr: Ukrainian
 translations:
-  NLD:
+  NL:
     common: Oekraïne
     official: Oekraïne
-  SPA:
+  ES:
     common: Ucrania
     official: Ucrania
     nationality: Ucraniana

@@ -14,28 +14,28 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Mikronesien
     official: Föderierte Staaten von Mikronesien
-  FIN:
+  FI:
     common: Mikronesia
     official: Mikronesian liittovaltio
-  FRA:
+  FR:
     common: Micronésie
     official: États fédérés de Micronésie
-  HRV:
+  HR:
     common: Mikronezija
     official: Savezne Države Mikronezije
-  JPN:
+  JP:
     common: ミクロネシア連邦
     official: ミクロネシア連邦
-  NLD:
+  NL:
     common: Micronesië
     official: Federale Staten van Micronesia
-  POR:
+  PT:
     common: Micronésia
     official: Estados Federados da Micronésia
-  SPA:
+  ES:
     common: Micronesia
     official: Estados Federados de Micronesia
 currencies:

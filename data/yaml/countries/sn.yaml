@@ -3,7 +3,7 @@ name:
   common: Senegal
   official: Republic of Senegal
   native:
-    fra:
+    FR:
       common: Sénégal
       official: République du Sénégal
 eumember: false
@@ -12,30 +12,30 @@ nationality: Senegalese
 tlds:
 - ".sn"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Senegal
     official: Republik Senegal
-  FIN:
+  FI:
     common: Senegal
     official: Senegalin tasavalta
-  FRA:
+  FR:
     common: Sénégal
     official: République du Sénégal
-  HRV:
+  HR:
     common: Senegal
     official: Republika Senegal
-  ITA:
+  IT:
     common: Senegal
     official: Repubblica del Senegal
-  NLD:
+  NL:
     common: Senegal
     official: Republiek Senegal
-  RUS:
+  RU:
     common: Сенегал
     official: Республика Сенегал
-  SPA:
+  ES:
     nationality: Senegalés
 currencies:
 - XOF

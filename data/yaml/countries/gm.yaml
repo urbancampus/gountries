@@ -14,16 +14,16 @@ tlds:
 languages:
   eng: English
 translations:
-  HRV:
+  HR:
     common: Gambija
     official: Republika Gambija
-  NLD:
+  NL:
     common: Gambia
     official: Republiek Gambia
-  POR:
+  PT:
     common: Gâmbia
     official: República da Gâmbia
-  RUS:
+  RU:
     common: Гамбия
     official: Республика Гамбия
 currencies:

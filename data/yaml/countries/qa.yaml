@@ -15,28 +15,28 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Katar
     official: Staat Katar
-  FIN:
+  FI:
     common: Qatar
     official: Qatarin valtio
-  HRV:
+  HR:
     common: Katar
     official: Država Katar
-  ITA:
+  IT:
     common: Qatar
     official: Stato del Qatar
-  JPN:
+  JP:
     common: カタール
     official: カタール国
-  NLD:
+  NL:
     common: Qatar
     official: Staat Qatar
-  RUS:
+  RU:
     common: Катар
     official: Государство Катар
-  SPA:
+  ES:
     common: Catar
     official: Estado de Qatar
 currencies:

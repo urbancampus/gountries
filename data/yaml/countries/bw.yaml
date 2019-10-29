@@ -18,19 +18,19 @@ languages:
   eng: English
   tsn: Tswana
 translations:
-  FIN:
+  FI:
     common: Botswana
     official: Botswanan tasavalta
-  FRA:
+  FR:
     common: Botswana
     official: République du Botswana
-  NLD:
+  NL:
     common: Botswana
     official: Republiek Botswana
-  POR:
+  PT:
     common: Botswana
     official: República do Botswana
-  SPA:
+  ES:
     common: Botswana
     official: República de Botswana
     nationality: " botswanan"

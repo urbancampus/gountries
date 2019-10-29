@@ -14,19 +14,19 @@ tlds:
 languages:
   lav: Latvian
 translations:
-  FRA:
+  FR:
     common: Lettonie
     official: République de Lettonie
-  HRV:
+  HR:
     common: Latvija
     official: Republika Latvija
-  JPN:
+  JP:
     common: ラトビア
     official: ラトビア共和国
-  RUS:
+  RU:
     common: Латвия
     official: Латвийская Республика
-  SPA:
+  ES:
     common: Letonia
     official: República de Letonia
     nationality: Letón

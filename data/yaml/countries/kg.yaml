@@ -6,7 +6,7 @@ name:
     kir:
       common: Кыргызстан
       official: Кыргыз Республикасы
-    rus:
+    RU:
       common: Киргизия
       official: Кыргызская Республика
 eumember: false
@@ -16,24 +16,24 @@ tlds:
 - ".kg"
 languages:
   kir: Kyrgyz
-  rus: Russian
+  RU: Russian
 translations:
-  DEU:
+  DE:
     common: Kirgisistan
     official: Kirgisische Republik
-  FIN:
+  FI:
     common: Kirgisia
     official: Kirgisian tasavalta
-  ITA:
+  IT:
     common: Kirghizistan
     official: Kirghizistan
-  JPN:
+  JP:
     common: キルギス
     official: キルギス共和国
-  POR:
+  PT:
     common: Quirguistão
     official: República do Quirguistão
-  RUS:
+  RU:
     common: Киргизия
     official: Кыргызская Республика
 currencies:

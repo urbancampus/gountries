@@ -14,22 +14,22 @@ tlds:
 languages:
   nor: Norwegian
 translations:
-  FIN:
+  FI:
     common: Bouvet'nsaari
     official: Bouvet'nsaari
-  FRA:
+  FR:
     common: Île Bouvet
     official: Île Bouvet
-  HRV:
+  HR:
     common: Otok Bouvet
     official: Bouvet Island
-  NLD:
+  NL:
     common: Bouveteiland
     official: Bouvet Island
-  POR:
+  PT:
     common: Ilha Bouvet
     official: Ilha Bouvet
-  SPA:
+  ES:
     common: Isla Bouvet
     official: Isla Bouvet
 currencies:

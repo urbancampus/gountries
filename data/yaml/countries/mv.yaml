@@ -14,28 +14,28 @@ tlds:
 languages:
   div: Maldivian
 translations:
-  DEU:
+  DE:
     common: Malediven
     official: Republik Malediven
-  FIN:
+  FI:
     common: Malediivit
     official: Malediivien tasavalta
-  FRA:
+  FR:
     common: Maldives
     official: République des Maldives
-  HRV:
+  HR:
     common: Maldivi
     official: Republika Maldivi
-  JPN:
+  JP:
     common: モルディブ
     official: モルディブ共和国
-  NLD:
+  NL:
     common: Maldiven
     official: Republiek van de Malediven
-  RUS:
+  RU:
     common: Мальдивы
     official: Республика Мальдивы
-  SPA:
+  ES:
     common: Maldivas
     official: República de las Maldivas
 currencies:

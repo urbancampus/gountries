@@ -14,25 +14,25 @@ tlds:
 languages:
   pol: Polish
 translations:
-  DEU:
+  DE:
     common: Polen
     official: Republik Polen
-  FRA:
+  FR:
     common: Pologne
     official: République de Pologne
-  JPN:
+  JP:
     common: ポーランド
     official: ポーランド共和国
-  NLD:
+  NL:
     common: Polen
     official: Republiek Polen
-  POR:
+  PT:
     common: Polónia
     official: República da Polónia
-  RUS:
+  RU:
     common: Польша
     official: Республика Польша
-  SPA:
+  ES:
     common: Polonia
     official: República de Polonia
     nationality: Polaca

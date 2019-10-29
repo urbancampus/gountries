@@ -14,28 +14,28 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Barbados
     official: Barbados
-  FIN:
+  FI:
     common: Barbados
     official: Barbados
-  FRA:
+  FR:
     common: Barbade
     official: Barbade
-  HRV:
+  HR:
     common: Barbados
     official: Barbados
-  ITA:
+  IT:
     common: Barbados
     official: Barbados
-  NLD:
+  NL:
     common: Barbados
     official: Barbados
-  POR:
+  PT:
     common: Barbados
     official: Barbados
-  SPA:
+  ES:
     common: Barbados
     official: Barbados
 currencies:

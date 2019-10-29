@@ -18,16 +18,16 @@ languages:
   eng: English
   msa: Malay
 translations:
-  FRA:
+  FR:
     common: Malaisie
     official: Fédération de Malaisie
-  JPN:
+  JP:
     common: マレーシア
     official: マレーシア
-  POR:
+  PT:
     common: Malásia
     official: Malásia
-  SPA:
+  ES:
     common: Malasia
     official: Malasia
     nationality: Malasia

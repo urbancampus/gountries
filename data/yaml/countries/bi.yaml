@@ -3,7 +3,7 @@ name:
   common: Burundi
   official: Republic of Burundi
   native:
-    fra:
+    FR:
       common: Burundi
       official: République du Burundi
     run:
@@ -15,34 +15,34 @@ nationality: Burundian
 tlds:
 - ".bi"
 languages:
-  fra: French
+  FR: French
   run: Kirundi
 translations:
-  CYM:
+  KY:
     common: Bwrwndi
     official: Republic of Burundi
-  FIN:
+  FI:
     common: Burundi
     official: Burundin tasavalta
-  FRA:
+  FR:
     common: Burundi
     official: République du Burundi
-  HRV:
+  HR:
     common: Burundi
     official: Burundi
-  ITA:
+  IT:
     common: Burundi
     official: Repubblica del Burundi
-  NLD:
+  NL:
     common: Burundi
     official: Republiek Burundi
-  POR:
+  PT:
     common: Burundi
     official: República do Burundi
-  RUS:
+  RU:
     common: Бурунди
     official: Республика Бурунди
-  SPA:
+  ES:
     common: Burundi
     official: República de Burundi
 currencies:

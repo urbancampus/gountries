@@ -3,7 +3,7 @@ name:
   common: Angola
   official: Republic of Angola
   native:
-    por:
+    PT:
       common: Angola
       official: República de Angola
 eumember: false
@@ -12,27 +12,27 @@ nationality: Angolan
 tlds:
 - ".ao"
 languages:
-  por: Portuguese
+  PT: Portuguese
 translations:
-  CYM:
+  KY:
     common: Angola
     official: Republic of Angola
-  DEU:
+  DE:
     common: Angola
     official: Republik Angola
-  FIN:
+  FI:
     common: Angola
     official: Angolan tasavalta
-  FRA:
+  FR:
     common: Angola
     official: République d'Angola
-  HRV:
+  HR:
     common: Angola
     official: Republika Angola
-  JPN:
+  JP:
     common: アンゴラ
     official: アンゴラ共和国
-  RUS:
+  RU:
     common: Ангола
     official: Республика Ангола
 currencies:

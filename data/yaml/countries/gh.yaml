@@ -14,22 +14,22 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Ghana
     official: Republik Ghana
-  FRA:
+  FR:
     common: Ghana
     official: République du Ghana
-  HRV:
+  HR:
     common: Gana
     official: Republika Gana
-  JPN:
+  JP:
     common: ガーナ
     official: ガーナ共和国
-  POR:
+  PT:
     common: Gana
     official: República do Gana
-  SPA:
+  ES:
     common: Ghana
     official: República de Ghana
     nationality: Ghanés

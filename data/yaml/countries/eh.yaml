@@ -9,7 +9,7 @@ name:
     mey:
       common: الصحراء الغربية
       official: الجمهورية العربية الصحراوية الديمقراطية
-    spa:
+    ES:
       common: Sahara Occidental
       official: República Árabe Saharaui Democrática
 eumember: false
@@ -20,33 +20,33 @@ tlds:
 languages:
   ber: Berber
   mey: Hassaniya
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Westsahara
     official: Demokratische Arabische Republik Sahara
-  FRA:
+  FR:
     common: Sahara Occidental
     official: République arabe sahraouie démocratique
-  HRV:
+  HR:
     common: Zapadna Sahara
     official: Sahrawi Arab Demokratska Republika
-  ITA:
+  IT:
     common: Sahara Occidentale
     official: Repubblica Araba Saharawi Democratica
-  JPN:
+  JP:
     common: 西サハラ
     official: サハラアラブ民主共和国
-  NLD:
+  NL:
     common: Westelijke Sahara
     official: Sahrawi Arabische Democratische Republiek
-  POR:
+  PT:
     common: Saara Ocidental
     official: República Árabe Saharaui Democrática
-  RUS:
+  RU:
     common: Западная Сахара
     official: Sahrawi Арабская Демократическая Республика
-  SPA:
+  ES:
     common: Sahara Occidental
     official: República Árabe Saharaui Democrática
 currencies:

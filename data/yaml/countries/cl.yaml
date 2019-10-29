@@ -3,7 +3,7 @@ name:
   common: Chile
   official: Republic of Chile
   native:
-    spa:
+    ES:
       common: Chile
       official: República de Chile
 eumember: false
@@ -12,33 +12,33 @@ nationality: Chilean
 tlds:
 - ".cl"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Chile
     official: Republic of Chile
-  DEU:
+  DE:
     common: Chile
     official: Republik Chile
-  FIN:
+  FI:
     common: Chile
     official: Chilen tasavalta
-  FRA:
+  FR:
     common: Chili
     official: République du Chili
-  HRV:
+  HR:
     common: Čile
     official: Republika Čile
-  ITA:
+  IT:
     common: Cile
     official: Repubblica del Cile
-  NLD:
+  NL:
     common: Chili
     official: Republiek Chili
-  RUS:
+  RU:
     common: Чили
     official: Республика Чили
-  SPA:
+  ES:
     common: Chile
     official: República de Chile
     nationality: Chilena

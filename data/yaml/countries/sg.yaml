@@ -28,25 +28,25 @@ languages:
   msa: Malay
   tam: Tamil
 translations:
-  FIN:
+  FI:
     common: Singapore
     official: Singaporen tasavalta
-  FRA:
+  FR:
     common: Singapour
     official: République de Singapour
-  ITA:
+  IT:
     common: Singapore
     official: Repubblica di Singapore
-  JPN:
+  JP:
     common: シンガポール
     official: シンガポール共和国
-  POR:
+  PT:
     common: Singapura
     official: República de Singapura
-  RUS:
+  RU:
     common: Сингапур
     official: Республика Сингапур
-  SPA:
+  ES:
     nationality: Singapurense
 currencies:
 - SGD

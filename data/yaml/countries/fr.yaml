@@ -3,7 +3,7 @@ name:
   common: France
   official: French Republic
   native:
-    fra:
+    FR:
       common: France
       official: République française
 eumember: true
@@ -12,30 +12,30 @@ nationality: French
 tlds:
 - ".fr"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Frankreich
     official: Französische Republik
-  FIN:
+  FI:
     common: Ranska
     official: Ranskan tasavalta
-  FRA:
+  FR:
     common: France
     official: République française
-  HRV:
+  HR:
     common: Francuska
     official: Francuska Republika
-  ITA:
+  IT:
     common: Francia
     official: Repubblica francese
-  NLD:
+  NL:
     common: Frankrijk
     official: Franse Republiek
-  RUS:
+  RU:
     common: Франция
     official: Французская Республика
-  SPA:
+  ES:
     nationality: Francés
 currencies:
 - EUR

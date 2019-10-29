@@ -3,7 +3,7 @@ name:
   common: French Polynesia
   official: French Polynesia
   native:
-    fra:
+    FR:
       common: Polynésie française
       official: Polynésie française
 eumember: false
@@ -12,27 +12,27 @@ nationality: French Polynesian
 tlds:
 - ".pf"
 languages:
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Französisch-Polynesien
     official: Französisch-Polynesien
-  FIN:
+  FI:
     common: Ranskan Polynesia
     official: Ranskan Polynesia
-  HRV:
+  HR:
     common: Francuska Polinezija
     official: Francuska Polinezija
-  ITA:
+  IT:
     common: Polinesia Francese
     official: Polinesia Francese
-  NLD:
+  NL:
     common: Frans-Polynesië
     official: Frans-Polynesië
-  RUS:
+  RU:
     common: Французская Полинезия
     official: Французская Полинезия
-  SPA:
+  ES:
     common: Polinesia Francesa
     official: Polinesia francés
 currencies:

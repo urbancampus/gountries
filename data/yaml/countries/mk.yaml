@@ -14,22 +14,22 @@ tlds:
 languages:
   mkd: Macedonian
 translations:
-  DEU:
+  DE:
     common: Mazedonien
     official: Republik Mazedonien
-  FIN:
+  FI:
     common: Makedonia
     official: Makedonian tasavalta
-  HRV:
+  HR:
     common: Makedonija
     official: Republika Makedonija
-  NLD:
+  NL:
     common: Macedonië
     official: Republic of Macedonia
-  RUS:
+  RU:
     common: Республика Македония
     official: Республика Македония
-  SPA:
+  ES:
     common: Macedonia
     official: República de Macedonia
 currencies:

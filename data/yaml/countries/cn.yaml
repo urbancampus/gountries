@@ -18,25 +18,25 @@ tlds:
 languages:
   cmn: Mandarin
 translations:
-  FRA:
+  FR:
     common: Chine
     official: République populaire de Chine
-  ITA:
+  IT:
     common: Cina
     official: Repubblica popolare cinese
-  JPN:
+  JP:
     common: 中国
     official: 中華人民共和国
-  NLD:
+  NL:
     common: China
     official: Volksrepubliek China
-  POR:
+  PT:
     common: China
     official: República Popular da China
-  RUS:
+  RU:
     common: Китай
     official: Народная Республика Китай
-  SPA:
+  ES:
     common: China
     official: República Popular de China
     nationality: China

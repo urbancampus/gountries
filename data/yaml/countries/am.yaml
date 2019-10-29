@@ -6,7 +6,7 @@ name:
     hye:
       common: Հայաստան
       official: Հայաստանի Հանրապետություն
-    rus:
+    RU:
       common: Армения
       official: Республика Армения
 eumember: false
@@ -16,30 +16,30 @@ tlds:
 - ".am"
 languages:
   hye: Armenian
-  rus: Russian
+  RU: Russian
 translations:
-  CYM:
+  KY:
     common: Armenia
     official: Republic of Armenia
-  DEU:
+  DE:
     common: Armenien
     official: Republik Armenien
-  FIN:
+  FI:
     common: Armenia
     official: Armenian tasavalta
-  HRV:
+  HR:
     common: Armenija
     official: Republika Armenija
-  JPN:
+  JP:
     common: アルメニア
     official: アルメニア共和国
-  POR:
+  PT:
     common: Arménia
     official: República da Arménia
-  RUS:
+  RU:
     common: Армения
     official: Республика Армения
-  SPA:
+  ES:
     common: Armenia
     official: República de Armenia
 currencies:

@@ -15,28 +15,28 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  CYM:
+  KY:
     common: Algeria
     official: People's Democratic Republic of Algeria
-  DEU:
+  DE:
     common: Algerien
     official: Demokratische Volksrepublik Algerien
-  FIN:
+  FI:
     common: Algeria
     official: Algerian demokraattinen kansantasavalta
-  HRV:
+  HR:
     common: Alžir
     official: Narodna Demokratska Republika Alžir
-  ITA:
+  IT:
     common: Algeria
     official: Repubblica popolare democratica di Algeria
-  NLD:
+  NL:
     common: Algerije
     official: Democratische Volksrepubliek Algerije
-  POR:
+  PT:
     common: Argélia
     official: República Argelina Democrática e Popular
-  SPA:
+  ES:
     common: Argelia
     official: República Argelina Democrática y Popular
     nationality: Argelina

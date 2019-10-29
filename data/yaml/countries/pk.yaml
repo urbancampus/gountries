@@ -18,31 +18,31 @@ languages:
   eng: English
   urd: Urdu
 translations:
-  DEU:
+  DE:
     common: Pakistan
     official: Islamische Republik Pakistan
-  FRA:
+  FR:
     common: Pakistan
     official: République islamique du Pakistan
-  HRV:
+  HR:
     common: Pakistan
     official: Islamska Republika Pakistan
-  ITA:
+  IT:
     common: Pakistan
     official: Repubblica islamica del Pakistan
-  JPN:
+  JP:
     common: パキスタン
     official: パキスタン
-  NLD:
+  NL:
     common: Pakistan
     official: Islamitische Republiek Pakistan
-  POR:
+  PT:
     common: Paquistão
     official: República Islâmica do Paquistão
-  RUS:
+  RU:
     common: Пакистан
     official: Исламская Республика Пакистан
-  SPA:
+  ES:
     common: Pakistán
     official: República Islámica de Pakistán
     nationality: Paquistaní

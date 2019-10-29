@@ -6,7 +6,7 @@ name:
     eng:
       common: Rwanda
       official: Republic of Rwanda
-    fra:
+    FR:
       common: Rwanda
       official: République rwandaise
     kin:
@@ -19,31 +19,31 @@ tlds:
 - ".rw"
 languages:
   eng: English
-  fra: French
+  FR: French
   kin: Kinyarwanda
 translations:
-  FIN:
+  FI:
     common: Ruanda
     official: Ruandan tasavalta
-  HRV:
+  HR:
     common: Ruanda
     official: Republika Ruandi
-  ITA:
+  IT:
     common: Ruanda
     official: Repubblica del Ruanda
-  JPN:
+  JP:
     common: ルワンダ
     official: ルワンダ共和国
-  NLD:
+  NL:
     common: Rwanda
     official: Republiek Rwanda
-  POR:
+  PT:
     common: Ruanda
     official: República do Ruanda
-  RUS:
+  RU:
     common: Руанда
     official: Республика Руанда
-  SPA:
+  ES:
     common: Ruanda
     official: República de Rwanda
 currencies:

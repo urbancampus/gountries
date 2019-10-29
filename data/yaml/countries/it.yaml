@@ -6,7 +6,7 @@ name:
     bar:
       common: Italien
       official: Italienische Republik
-    ita:
+    IT:
       common: Italia
       official: Repubblica italiana
     srd:
@@ -19,19 +19,19 @@ tlds:
 - ".it"
 languages:
   bar: Austro-Bavarian German
-  ita: Italian
+  IT: Italian
   srd: Sardinian
 translations:
-  FRA:
+  FR:
     common: Italie
     official: République italienne
-  ITA:
+  IT:
     common: Italia
     official: Repubblica italiana
-  RUS:
+  RU:
     common: Италия
     official: итальянская Республика
-  SPA:
+  ES:
     nationality: Italiana
 currencies:
 - EUR

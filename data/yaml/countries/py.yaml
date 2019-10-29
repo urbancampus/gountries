@@ -6,7 +6,7 @@ name:
     grn:
       common: Paraguái
       official: Tetã Paraguái
-    spa:
+    ES:
       common: Paraguay
       official: República de Paraguay
 eumember: false
@@ -16,24 +16,24 @@ tlds:
 - ".py"
 languages:
   grn: Guaraní
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Paraguay
     official: Republik Paraguay
-  HRV:
+  HR:
     common: Paragvaj
     official: Republika Paragvaj
-  ITA:
+  IT:
     common: Paraguay
     official: Repubblica del Paraguay
-  JPN:
+  JP:
     common: パラグアイ
     official: パラグアイ共和国
-  POR:
+  PT:
     common: Paraguai
     official: República do Paraguai
-  SPA:
+  ES:
     nationality: Paraguaya
 currencies:
 - PYG

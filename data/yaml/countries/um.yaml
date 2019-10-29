@@ -14,22 +14,22 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Yhdysvaltain asumattomat saaret
     official: Yhdysvaltain asumattomat saaret
-  FRA:
+  FR:
     common: Îles mineures éloignées des États-Unis
     official: Îles mineures éloignées des États-Unis
-  HRV:
+  HR:
     common: Mali udaljeni otoci SAD-a
     official: Mali udaljeni otoci SAD-a
-  ITA:
+  IT:
     common: Isole minori esterne degli Stati Uniti d'America
     official: Stati Uniti Isole Minori
-  RUS:
+  RU:
     common: Внешние малые острова США
     official: Внешние малые острова США
-  SPA:
+  ES:
     common: Islas Ultramarinas Menores de Estados Unidos
     official: Estados Unidos Islas menores alejadas de
     nationality: Americana

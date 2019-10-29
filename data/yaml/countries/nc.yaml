@@ -3,7 +3,7 @@ name:
   common: New Caledonia
   official: New Caledonia
   native:
-    fra:
+    FR:
       common: Nouvelle-Calédonie
       official: Nouvelle-Calédonie
 eumember: false
@@ -12,21 +12,21 @@ nationality: New Caledonian
 tlds:
 - ".nc"
 languages:
-  fra: French
+  FR: French
 translations:
-  FRA:
+  FR:
     common: Nouvelle-Calédonie
     official: Nouvelle-Calédonie
-  ITA:
+  IT:
     common: Nuova Caledonia
     official: Nuova Caledonia
-  JPN:
+  JP:
     common: ニューカレドニア
     official: ニューカレドニア
-  POR:
+  PT:
     common: Nova Caledónia
     official: New Caledonia
-  RUS:
+  RU:
     common: Новая Каледония
     official: Новая Каледония
 currencies:

@@ -12,7 +12,7 @@ name:
     que:
       common: Buliwya
       official: Buliwya Mamallaqta
-    spa:
+    ES:
       common: Bolivia
       official: Estado Plurinacional de Bolivia
 eumember: false
@@ -24,30 +24,30 @@ languages:
   aym: Aymara
   grn: Guaraní
   que: Quechua
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Bolifia
     official: Plurinational State of Bolivia
-  FRA:
+  FR:
     common: Bolivie
     official: État plurinational de Bolivie
-  HRV:
+  HR:
     common: Bolivija
     official: Plurinational State of Bolivia
-  ITA:
+  IT:
     common: Bolivia
     official: Stato Plurinazionale della Bolivia
-  JPN:
+  JP:
     common: ボリビア多民族国
     official: ボリビアの多民族国
-  POR:
+  PT:
     common: Bolívia
     official: Estado Plurinacional da Bolívia
-  RUS:
+  RU:
     common: Боливия
     official: Многонациональное Государство Боливия
-  SPA:
+  ES:
     common: Bolivia
     official: Estado Plurinacional de Bolivia
     nationality: Boliviana

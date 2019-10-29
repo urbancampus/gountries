@@ -18,16 +18,16 @@ languages:
   eng: English
   sot: Sotho
 translations:
-  DEU:
+  DE:
     common: Lesotho
     official: Königreich Lesotho
-  FIN:
+  FI:
     common: Lesotho
     official: Lesothon kuningaskunta
-  ITA:
+  IT:
     common: Lesotho
     official: Regno del Lesotho
-  NLD:
+  NL:
     common: Lesotho
     official: Koninkrijk Lesotho
 currencies:

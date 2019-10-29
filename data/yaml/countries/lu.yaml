@@ -3,10 +3,10 @@ name:
   common: Luxembourg
   official: Grand Duchy of Luxembourg
   native:
-    deu:
+    DE:
       common: Luxemburg
       official: Großherzogtum Luxemburg
-    fra:
+    FR:
       common: Luxembourg
       official: Grand-Duché de Luxembourg
     ltz:
@@ -18,29 +18,29 @@ nationality: Luxembourg, Luxembourgish
 tlds:
 - ".lu"
 languages:
-  deu: German
-  fra: French
+  DE: German
+  FR: French
   ltz: Luxembourgish
 translations:
-  DEU:
+  DE:
     common: Luxemburg
     official: Großherzogtum Luxemburg,
-  FIN:
+  FI:
     common: Luxemburg
     official: Luxemburgin suurherttuakunta
-  FRA:
+  FR:
     common: Luxembourg
     official: Grand-Duché de Luxembourg
-  HRV:
+  HR:
     common: Luksemburg
     official: Veliko Vojvodstvo Luksemburg
-  NLD:
+  NL:
     common: Luxemburg
     official: Groothertogdom Luxemburg
-  RUS:
+  RU:
     common: Люксембург
     official: Великое Герцогство Люксембург
-  SPA:
+  ES:
     common: Luxemburgo
     official: Gran Ducado de Luxemburgo
 currencies:

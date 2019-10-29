@@ -14,25 +14,25 @@ tlds:
 languages:
   msa: Malay
 translations:
-  DEU:
+  DE:
     common: Brunei
     official: Nation von Brunei, Wohnung des Friedens
-  FIN:
+  FI:
     common: Brunei
     official: Brunei Darussalamin valtio
-  HRV:
+  HR:
     common: Brunej
     official: Nacija od Bruneja, Kuću Mira
-  ITA:
+  IT:
     common: Brunei
     official: Nazione di Brunei, Dimora della Pace
-  JPN:
+  JP:
     common: ブルネイ・ダルサラーム
     official: ブルネイ、平和の精舎の国家
-  NLD:
+  NL:
     common: Brunei
     official: Natie van Brunei, de verblijfplaats van de Vrede
-  RUS:
+  RU:
     common: Бруней
     official: Нация Бруней, обитель мира
 currencies:

@@ -3,7 +3,7 @@ name:
   common: Mozambique
   official: Republic of Mozambique
   native:
-    por:
+    PT:
       common: Moçambique
       official: República de Moçambique
 eumember: false
@@ -12,27 +12,27 @@ nationality: Mozambican
 tlds:
 - ".mz"
 languages:
-  por: Portuguese
+  PT: Portuguese
 translations:
-  FIN:
+  FI:
     common: Mosambik
     official: Mosambikin tasavalta
-  FRA:
+  FR:
     common: Mozambique
     official: République du Mozambique
-  ITA:
+  IT:
     common: Mozambico
     official: Repubblica del Mozambico
-  JPN:
+  JP:
     common: モザンビーク
     official: モザンビーク共和国
-  NLD:
+  NL:
     common: Mozambique
     official: Republiek Mozambique
-  RUS:
+  RU:
     common: Мозамбик
     official: Республика Мозамбик
-  SPA:
+  ES:
     common: Mozambique
     official: República de Mozambique
     nationality: Mozambiqueña

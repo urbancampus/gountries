@@ -14,16 +14,16 @@ tlds:
 languages:
   eng: English
 translations:
-  FRA:
+  FR:
     common: Bermudes
     official: Bermudes
-  ITA:
+  IT:
     common: Bermuda
     official: Bermuda
-  JPN:
+  JP:
     common: バミューダ
     official: バミューダ
-  SPA:
+  ES:
     common: Bermudas
     official: Bermuda
 currencies:

@@ -14,22 +14,22 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Antigua und Barbuda
     official: Antigua und Barbuda
-  FIN:
+  FI:
     common: Antigua ja Barbuda
     official: Antigua ja Barbuda
-  ITA:
+  IT:
     common: Antigua e Barbuda
     official: Antigua e Barbuda
-  JPN:
+  JP:
     common: アンティグア・バーブーダ
     official: アンチグアバーブーダ
-  NLD:
+  NL:
     common: Antigua en Barbuda
     official: Antigua en Barbuda
-  RUS:
+  RU:
     common: Антигуа и Барбуда
     official: Антигуа и Барбуда
 currencies:

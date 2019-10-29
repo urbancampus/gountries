@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  FIN:
+  FI:
     common: Guayana
     official: Guayanan osuustoiminnallinen tasavalta
-  HRV:
+  HR:
     common: Gvajana
     official: Zadruga Republika Gvajana
-  ITA:
+  IT:
     common: Guyana
     official: Co -operative Republic of Guyana
-  JPN:
+  JP:
     common: ガイアナ
     official: ガイアナの協同共和国
-  POR:
+  PT:
     common: Guiana
     official: Co -operative República da Guiana
-  RUS:
+  RU:
     common: Гайана
     official: Кооперативная Республика Гайана
-  SPA:
+  ES:
     common: Guyana
     official: República Cooperativa de Guyana
 currencies:

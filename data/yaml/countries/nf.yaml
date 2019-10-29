@@ -18,19 +18,19 @@ languages:
   eng: English
   pih: Norfuk
 translations:
-  DEU:
+  DE:
     common: Norfolkinsel
     official: Gebiet der Norfolk-Insel
-  FRA:
+  FR:
     common: Île Norfolk
     official: Territoire de l'île Norfolk
-  NLD:
+  NL:
     common: Norfolkeiland
     official: Grondgebied van Norfolk Island
-  RUS:
+  RU:
     common: Норфолк
     official: Территория острова Норфолк
-  SPA:
+  ES:
     common: Isla de Norfolk
     official: Territorio de la Isla Norfolk
 currencies:

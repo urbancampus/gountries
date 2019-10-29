@@ -3,7 +3,7 @@ name:
   common: Guatemala
   official: Republic of Guatemala
   native:
-    spa:
+    ES:
       common: Guatemala
       official: República de Guatemala
 eumember: false
@@ -12,24 +12,24 @@ nationality: Guatemalan
 tlds:
 - ".gt"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  DEU:
+  DE:
     common: Guatemala
     official: Republik Guatemala
-  FIN:
+  FI:
     common: Guatemala
     official: Guatemalan tasavalta
-  HRV:
+  HR:
     common: Gvatemala
     official: Republika Gvatemala
-  ITA:
+  IT:
     common: Guatemala
     official: Repubblica del Guatemala
-  NLD:
+  NL:
     common: Guatemala
     official: Republiek Guatemala
-  SPA:
+  ES:
     nationality: Guatemalteca
 currencies:
 - GTQ

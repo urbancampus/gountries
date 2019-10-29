@@ -18,16 +18,16 @@ languages:
   eng: English
   swa: Swahili
 translations:
-  DEU:
+  DE:
     common: Uganda
     official: Republik Uganda
-  NLD:
+  NL:
     common: Oeganda
     official: Republiek Uganda
-  POR:
+  PT:
     common: Uganda
     official: República do Uganda
-  SPA:
+  ES:
     common: Uganda
     official: República de Uganda
 currencies:

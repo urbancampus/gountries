@@ -3,7 +3,7 @@ name:
   common: Central African Republic
   official: Central African Republic
   native:
-    fra:
+    FR:
       common: République centrafricaine
       official: République centrafricaine
     sag:
@@ -15,31 +15,31 @@ nationality: Central African
 tlds:
 - ".cf"
 languages:
-  fra: French
+  FR: French
   sag: Sango
 translations:
-  CYM:
+  KY:
     common: Gweriniaeth Canolbarth Affrica
     official: Central African Republic
-  DEU:
+  DE:
     common: Zentralafrikanische Republik
     official: Zentralafrikanische Republik
-  FIN:
+  FI:
     common: Keski-Afrikan tasavalta
     official: Keski-Afrikan tasavalta
-  FRA:
+  FR:
     common: République centrafricaine
     official: République centrafricaine
-  HRV:
+  HR:
     common: Srednjoafrička Republika
     official: Centralna Afrička Republika
-  NLD:
+  NL:
     common: Centraal-Afrikaanse Republiek
     official: Centraal-Afrikaanse Republiek
-  POR:
+  PT:
     common: República Centro-Africana
     official: República Centro-Africano
-  RUS:
+  RU:
     common: Центральноафриканская Республика
     official: Центрально-Африканская Республика
 currencies:

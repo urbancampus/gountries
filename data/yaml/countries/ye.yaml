@@ -14,25 +14,25 @@ tlds:
 languages:
   ara: Arabic
 translations:
-  DEU:
+  DE:
     common: Jemen
     official: Republik Jemen
-  FRA:
+  FR:
     common: Yémen
     official: République du Yémen
-  HRV:
+  HR:
     common: Jemen
     official: Republika Jemen
-  ITA:
+  IT:
     common: Yemen
     official: Repubblica dello Yemen
-  NLD:
+  NL:
     common: Jemen
     official: Republiek Jemen
-  POR:
+  PT:
     common: Iémen
     official: República do Iêmen
-  SPA:
+  ES:
     common: Yemen
     official: República de Yemen
 currencies:

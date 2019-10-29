@@ -3,7 +3,7 @@ name:
   common: Guinea-Bissau
   official: Republic of Guinea-Bissau
   native:
-    por:
+    PT:
       common: Guiné-Bissau
       official: República da Guiné-Bissau
 eumember: false
@@ -12,24 +12,24 @@ nationality: Bissau-Guinean
 tlds:
 - ".gw"
 languages:
-  por: Portuguese
+  PT: Portuguese
 translations:
-  DEU:
+  DE:
     common: Guinea-Bissau
     official: Republik Guinea-Bissau
-  FIN:
+  FI:
     common: Guinea-Bissau
     official: Guinea-Bissaun tasavalta
-  HRV:
+  HR:
     common: Gvineja Bisau
     official: Republika Gvineja Bisau
-  NLD:
+  NL:
     common: Guinee-Bissau
     official: Republiek Guinee-Bissau
-  POR:
+  PT:
     common: Guiné-Bissau
     official: República da Guiné-Bissau
-  RUS:
+  RU:
     common: Гвинея-Бисау
     official: Республика Гвинея -Бисау
 currencies:

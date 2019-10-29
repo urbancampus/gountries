@@ -3,7 +3,7 @@ name:
   common: Guinea
   official: Republic of Guinea
   native:
-    fra:
+    FR:
       common: Guinée
       official: République de Guinée
 eumember: false
@@ -12,30 +12,30 @@ nationality: Guinean
 tlds:
 - ".gn"
 languages:
-  fra: French
+  FR: French
 translations:
-  FIN:
+  FI:
     common: Guinea
     official: Guinean tasavalta
-  FRA:
+  FR:
     common: Guinée
     official: République de Guinée
-  HRV:
+  HR:
     common: Gvineja
     official: Republika Gvineja
-  JPN:
+  JP:
     common: ギニア
     official: ギニア共和国
-  NLD:
+  NL:
     common: Guinee
     official: Republiek Guinee
-  POR:
+  PT:
     common: Guiné
     official: República da Guiné
-  RUS:
+  RU:
     common: Гвинея
     official: Республика Гвинея
-  SPA:
+  ES:
     common: Guinea
     official: República de Guinea
 currencies:

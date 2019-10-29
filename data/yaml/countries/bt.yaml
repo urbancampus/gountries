@@ -14,28 +14,28 @@ tlds:
 languages:
   dzo: Dzongkha
 translations:
-  CYM:
+  KY:
     common: Bhwtan
     official: Kingdom of Bhutan
-  DEU:
+  DE:
     common: Bhutan
     official: Königreich Bhutan
-  FIN:
+  FI:
     common: Bhutan
     official: Bhutanin kuningaskunta
-  JPN:
+  JP:
     common: ブータン
     official: ブータン王国
-  NLD:
+  NL:
     common: Bhutan
     official: Koninkrijk Bhutan
-  POR:
+  PT:
     common: Butão
     official: Reino do Butão
-  RUS:
+  RU:
     common: Бутан
     official: Королевство Бутан
-  SPA:
+  ES:
     common: Bután
     official: Reino de Bután
 currencies:

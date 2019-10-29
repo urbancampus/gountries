@@ -3,7 +3,7 @@ name:
   common: Dominican Republic
   official: Dominican Republic
   native:
-    spa:
+    ES:
       common: República Dominicana
       official: República Dominicana
 eumember: false
@@ -12,30 +12,30 @@ nationality: Dominican
 tlds:
 - ".do"
 languages:
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Gweriniaeth_Dominica
     official: Dominican Republic
-  FIN:
+  FI:
     common: Dominikaaninen tasavalta
     official: Dominikaaninen tasavalta
-  FRA:
+  FR:
     common: République dominicaine
     official: République Dominicaine
-  ITA:
+  IT:
     common: Repubblica Dominicana
     official: Repubblica Dominicana
-  JPN:
+  JP:
     common: ドミニカ共和国
     official: ドミニカ共和国
-  POR:
+  PT:
     common: República Dominicana
     official: República Dominicana
-  RUS:
+  RU:
     common: Доминиканская Республика
     official: Доминиканская Республика
-  SPA:
+  ES:
     common: República Dominicana
     official: República Dominicana
 currencies:

@@ -15,22 +15,22 @@ tlds:
 languages:
   tha: Thai
 translations:
-  FIN:
+  FI:
     common: Thaimaa
     official: Thaimaan kuningaskunta
-  FRA:
+  FR:
     common: Thaïlande
     official: Royaume de Thaïlande
-  JPN:
+  JP:
     common: タイ
     official: タイ王国
-  NLD:
+  NL:
     common: Thailand
     official: Koninkrijk Thailand
-  POR:
+  PT:
     common: Tailândia
     official: Reino da Tailândia
-  SPA:
+  ES:
     common: Tailandia
     official: Reino de Tailandia
     nationality: Tailandés

@@ -14,19 +14,19 @@ tlds:
 languages:
   eng: English
 translations:
-  DEU:
+  DE:
     common: Salomonen
     official: Salomon-Inseln
-  FRA:
+  FR:
     common: Îles Salomon
     official: Îles Salomon
-  JPN:
+  JP:
     common: ソロモン諸島
     official: ソロモン諸島
-  POR:
+  PT:
     common: Ilhas Salomão
     official: Ilhas Salomão
-  SPA:
+  ES:
     common: Islas Salomón
     official: islas Salomón
 currencies:

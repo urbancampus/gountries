@@ -3,7 +3,7 @@ name:
   common: Macau
   official: Macao Special Administrative Region of the People's Republic of China
   native:
-    por:
+    PT:
       common: Macau
       official: Região Administrativa Especial de Macau da República Popular da China
     zho:
@@ -15,29 +15,29 @@ nationality: Macanese, Chinese
 tlds:
 - ".mo"
 languages:
-  por: Portuguese
+  PT: Portuguese
   zho: Chinese
 translations:
-  DEU:
+  DE:
     common: Macao
     official: Sonderverwaltungsregion Macau der Volksrepublik China
-  FIN:
+  FI:
     common: Macao
     official: Macaon Kiinan kansantasavallan erityishallintoalue
-  HRV:
+  HR:
     common: Makao
     official: Makao Posebnog upravnog područjaNarodne Republike Kine
-  NLD:
+  NL:
     common: Macao
     official: Speciale Administratieve Regio Macau van de Volksrepubliek China
-  POR:
+  PT:
     common: Macau
     official: Macau Região Administrativa Especial da República Popular da China
-  RUS:
+  RU:
     common: Макао
     official: Специальный административный район Макао Китайской Народной Республики
       Китай
-  SPA:
+  ES:
     common: Macao
     official: Macao, Región Administrativa Especial de la República Popular China
 currencies:

@@ -9,7 +9,7 @@ name:
     eng:
       common: Vanuatu
       official: Republic of Vanuatu
-    fra:
+    FR:
       common: Vanuatu
       official: République de Vanuatu
 eumember: false
@@ -20,27 +20,27 @@ tlds:
 languages:
   bis: Bislama
   eng: English
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Vanuatu
     official: Vanuatu
-  FIN:
+  FI:
     common: Vanuatu
     official: Vanuatun tasavalta
-  HRV:
+  HR:
     common: Vanuatu
     official: Republika Vanuatu
-  ITA:
+  IT:
     common: Vanuatu
     official: Repubblica di Vanuatu
-  JPN:
+  JP:
     common: バヌアツ
     official: バヌアツ共和国
-  RUS:
+  RU:
     common: Вануату
     official: Республика Вануату
-  SPA:
+  ES:
     common: Vanuatu
     official: República de Vanuatu
 currencies:

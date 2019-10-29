@@ -3,7 +3,7 @@ name:
   common: Mayotte
   official: Department of Mayotte
   native:
-    fra:
+    FR:
       common: Mayotte
       official: Département de Mayotte
 eumember: false
@@ -12,27 +12,27 @@ nationality: Mahoran
 tlds:
 - ".yt"
 languages:
-  fra: French
+  FR: French
 translations:
-  FRA:
+  FR:
     common: Mayotte
     official: Département de Mayotte
-  HRV:
+  HR:
     common: Mayotte
     official: Odjel Mayotte
-  JPN:
+  JP:
     common: マヨット
     official: マヨット科
-  NLD:
+  NL:
     common: Mayotte
     official: Afdeling Mayotte
-  POR:
+  PT:
     common: Mayotte
     official: Departamento de Mayotte
-  RUS:
+  RU:
     common: Майотта
     official: Департамент Майотта
-  SPA:
+  ES:
     common: Mayotte
     official: Departamento de Mayotte
 currencies:

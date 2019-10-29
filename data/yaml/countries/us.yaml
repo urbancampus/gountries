@@ -14,25 +14,25 @@ tlds:
 languages:
   eng: English
 translations:
-  FRA:
+  FR:
     common: États-Unis
     official: Les états-unis d'Amérique
-  HRV:
+  HR:
     common: Sjedinjene Američke Države
     official: Sjedinjene Države Amerike
-  ITA:
+  IT:
     common: Stati Uniti d'America
     official: Stati Uniti d'America
-  JPN:
+  JP:
     common: アメリカ合衆国
     official: アメリカ合衆国
-  NLD:
+  NL:
     common: Verenigde Staten
     official: Verenigde Staten van Amerika
-  RUS:
+  RU:
     common: Соединённые Штаты Америки
     official: Соединенные Штаты Америки
-  SPA:
+  ES:
     common: Estados Unidos
     official: Estados Unidos de América
 currencies:

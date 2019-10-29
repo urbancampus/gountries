@@ -18,22 +18,22 @@ languages:
   eng: English
   tvl: Tuvaluan
 translations:
-  DEU:
+  DE:
     common: Tuvalu
     official: Tuvalu
-  FRA:
+  FR:
     common: Tuvalu
     official: Tuvalu
-  HRV:
+  HR:
     common: Tuvalu
     official: Tuvalu
-  POR:
+  PT:
     common: Tuvalu
     official: Tuvalu
-  RUS:
+  RU:
     common: Тувалу
     official: Тувалу
-  SPA:
+  ES:
     common: Tuvalu
     official: Tuvalu
 currencies:

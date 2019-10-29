@@ -6,7 +6,7 @@ name:
     ara:
       common: القمر‎
       official: الاتحاد القمري
-    fra:
+    FR:
       common: Comores
       official: Union des Comores
     zdj:
@@ -19,25 +19,25 @@ tlds:
 - ".km"
 languages:
   ara: Arabic
-  fra: French
+  FR: French
   zdj: Comorian
 translations:
-  DEU:
+  DE:
     common: Union der Komoren
     official: Union der Komoren
-  FRA:
+  FR:
     common: Comores
     official: Union des Comores
-  HRV:
+  HR:
     common: Komori
     official: Savez Komori
-  JPN:
+  JP:
     common: コモロ
     official: コモロ連合
-  POR:
+  PT:
     common: Comores
     official: União das Comores
-  RUS:
+  RU:
     common: Коморы
     official: Союз Коморских Островов
 currencies:

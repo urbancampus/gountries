@@ -14,31 +14,31 @@ tlds:
 languages:
   eng: English
 translations:
-  CYM:
+  KY:
     common: Awstralia
     official: Commonwealth of Australia
-  DEU:
+  DE:
     common: Australien
     official: Commonwealth Australien
-  FIN:
+  FI:
     common: Australia
     official: Australian liittovaltio
-  FRA:
+  FR:
     common: Australie
     official: Australie
-  HRV:
+  HR:
     common: Australija
     official: Commonwealth of Australia
-  ITA:
+  IT:
     common: Australia
     official: Commonwealth dell'Australia
-  POR:
+  PT:
     common: Austrália
     official: Comunidade da Austrália
-  RUS:
+  RU:
     common: Австралия
     official: Содружество Австралии
-  SPA:
+  ES:
     common: Australia
     official: Mancomunidad de Australia
     nationality: Australiana

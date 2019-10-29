@@ -6,7 +6,7 @@ name:
     ara:
       common: تشاد‎
       official: جمهورية تشاد
-    fra:
+    FR:
       common: Tchad
       official: République du Tchad
 eumember: false
@@ -16,30 +16,30 @@ tlds:
 - ".td"
 languages:
   ara: Arabic
-  fra: French
+  FR: French
 translations:
-  DEU:
+  DE:
     common: Tschad
     official: Republik Tschad
-  FIN:
+  FI:
     common: Tšad
     official: Tšadin tasavalta
-  HRV:
+  HR:
     common: Čad
     official: Čadu
-  ITA:
+  IT:
     common: Ciad
     official: Repubblica del Ciad
-  JPN:
+  JP:
     common: チャド
     official: チャド共和国
-  POR:
+  PT:
     common: Chade
     official: República do Chade
-  RUS:
+  RU:
     common: Чад
     official: Республика Чад
-  SPA:
+  ES:
     common: Chad
     official: República de Chad
 currencies:

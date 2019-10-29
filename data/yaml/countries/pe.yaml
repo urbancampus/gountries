@@ -9,7 +9,7 @@ name:
     que:
       common: Piruw
       official: Piruw Ripuwlika
-    spa:
+    ES:
       common: Perú
       official: República del Perú
 eumember: false
@@ -20,21 +20,21 @@ tlds:
 languages:
   aym: Aymara
   que: Quechua
-  spa: Spanish
+  ES: Spanish
 translations:
-  FRA:
+  FR:
     common: Pérou
     official: République du Pérou
-  HRV:
+  HR:
     common: Peru
     official: Republika Peru
-  ITA:
+  IT:
     common: Perù
     official: Repubblica del Perù
-  POR:
+  PT:
     common: Perú
     official: República do Peru
-  SPA:
+  ES:
     common: Perú
     official: República de Perú
     nationality: Peruana

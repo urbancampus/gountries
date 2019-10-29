@@ -6,7 +6,7 @@ name:
     grn:
       common: Argentina
       official: Argentine Republic
-    spa:
+    ES:
       common: Argentina
       official: República Argentina
 eumember: false
@@ -16,36 +16,36 @@ tlds:
 - ".ar"
 languages:
   grn: Guaraní
-  spa: Spanish
+  ES: Spanish
 translations:
-  CYM:
+  KY:
     common: Ariannin
     official: Argentine Republic
-  FIN:
+  FI:
     common: Argentiina
     official: Argentiinan tasavalta
-  FRA:
+  FR:
     common: Argentine
     official: République argentine
-  HRV:
+  HR:
     common: Argentina
     official: Argentinski Republika
-  ITA:
+  IT:
     common: Argentina
     official: Repubblica Argentina
-  JPN:
+  JP:
     common: アルゼンチン
     official: アルゼンチン共和国
-  NLD:
+  NL:
     common: Argentinië
     official: Argentijnse Republiek
-  POR:
+  PT:
     common: Argentina
     official: República Argentina
-  RUS:
+  RU:
     common: Аргентина
     official: Аргентинская Республика
-  SPA:
+  ES:
     common: Argentina
     official: República Argentina
     nationality: Argentina

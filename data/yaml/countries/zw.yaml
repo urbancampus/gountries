@@ -70,25 +70,25 @@ languages:
   xho: Xhosa
   zib: Zimbabwean Sign Language
 translations:
-  DEU:
+  DE:
     common: Simbabwe
     official: Republik Simbabwe
-  FIN:
+  FI:
     common: Zimbabwe
     official: Zimbabwen tasavalta
-  HRV:
+  HR:
     common: Zimbabve
     official: Republika Zimbabve
-  ITA:
+  IT:
     common: Zimbabwe
     official: Repubblica dello Zimbabwe
-  JPN:
+  JP:
     common: ジンバブエ
     official: ジンバブエ共和国
-  RUS:
+  RU:
     common: Зимбабве
     official: Республика Зимбабве
-  SPA:
+  ES:
     common: Zimbabue
     official: República de Zimbabue
 currencies:

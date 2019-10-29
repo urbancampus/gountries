@@ -3,7 +3,7 @@ name:
   common: Croatia
   official: Republic of Croatia
   native:
-    hrv:
+    HR:
       common: Hrvatska
       official: Republika Hrvatska
 eumember: true
@@ -12,27 +12,27 @@ nationality: Croatian
 tlds:
 - ".hr"
 languages:
-  hrv: Croatian
+  HR: Croatian
 translations:
-  CYM:
+  KY:
     common: Croatia
     official: Republic of Croatia
-  FIN:
+  FI:
     common: Kroatia
     official: Kroatian tasavalta
-  FRA:
+  FR:
     common: Croatie
     official: République de Croatie
-  HRV:
+  HR:
     common: Hrvatska
     official: Republika Hrvatska
-  NLD:
+  NL:
     common: Kroatië
     official: Republiek Kroatië
-  RUS:
+  RU:
     common: Хорватия
     official: Республика Хорватия
-  SPA:
+  ES:
     common: Croacia
     official: República de Croacia
     nationality: Croata

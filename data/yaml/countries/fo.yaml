@@ -18,25 +18,25 @@ languages:
   dan: Danish
   fao: Faroese
 translations:
-  DEU:
+  DE:
     common: Färöer-Inseln
     official: Färöer
-  FIN:
+  FI:
     common: Färsaaret
     official: Färsaaret
-  FRA:
+  FR:
     common: Îles Féroé
     official: Îles Féroé
-  JPN:
+  JP:
     common: フェロー諸島
     official: フェロー諸島
-  NLD:
+  NL:
     common: Faeröer
     official: Faeröer
-  POR:
+  PT:
     common: Ilhas Faroé
     official: Ilhas Faroe
-  RUS:
+  RU:
     common: Фарерские острова
     official: Фарерские острова
 currencies:

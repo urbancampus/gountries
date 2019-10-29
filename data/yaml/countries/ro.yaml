@@ -14,22 +14,22 @@ tlds:
 languages:
   ron: Romanian
 translations:
-  FRA:
+  FR:
     common: Roumanie
     official: Roumanie
-  HRV:
+  HR:
     common: Rumunjska
     official: Rumunija
-  ITA:
+  IT:
     common: Romania
     official: Romania
-  JPN:
+  JP:
     common: ルーマニア
     official: ルーマニア
-  RUS:
+  RU:
     common: Румыния
     official: Румыния
-  SPA:
+  ES:
     nationality: Rumana
 currencies:
 - RON

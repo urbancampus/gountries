@@ -22,22 +22,22 @@ languages:
   mri: Māori
   nzs: New Zealand Sign Language
 translations:
-  DEU:
+  DE:
     common: Neuseeland
     official: Neuseeland
-  FRA:
+  FR:
     common: Nouvelle-Zélande
     official: Nouvelle-Zélande
-  JPN:
+  JP:
     common: ニュージーランド
     official: ニュージーランド
-  POR:
+  PT:
     common: Nova Zelândia
     official: nova Zelândia
-  RUS:
+  RU:
     common: Новая Зеландия
     official: Новая Зеландия
-  SPA:
+  ES:
     nationality: Nueva zelanda
 currencies:
 - NZD
