@@ -35,6 +35,8 @@ translations:
   POR:
     common: Etiópia
     official: República Federal Democrática da Etiópia
+  SPA:
+    nationality: Etíope
 currencies:
 - ETB
 borders:

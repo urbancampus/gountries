@@ -37,6 +37,7 @@ translations:
   SPA:
     common: Perú
     official: República de Perú
+    nationality: Peruana
 currencies:
 - PEN
 borders:

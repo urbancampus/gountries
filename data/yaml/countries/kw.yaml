@@ -32,6 +32,7 @@ translations:
   SPA:
     common: Kuwait
     official: Estado de Kuwait
+    nationality: Kuwaití
 currencies:
 - KWD
 borders:

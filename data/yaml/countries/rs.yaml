@@ -33,6 +33,8 @@ translations:
   RUS:
     common: Сербия
     official: Республика Сербия
+  SPA:
+    nationality: Serbia
 currencies:
 - RSD
 borders:

@@ -46,6 +46,7 @@ translations:
   SPA:
     common: Marruecos
     official: Reino de Marruecos
+    nationality: Marroquí
 currencies:
 - MAD
 borders:

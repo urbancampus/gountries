@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Lituania
     official: República de Lituania
+    nationality: Lituana
 currencies:
 - EUR
 borders:

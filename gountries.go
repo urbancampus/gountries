@@ -2,8 +2,9 @@ package gountries
 
 // BaseLang is a basic structure for common language formatting in the JSON file
 type BaseLang struct {
-	Common   string `json:"common"`
-	Official string `json:"official"`
+	Common      string `json:"common"`
+	Official    string `json:"official"`
+	Nationality string `json:"official"`
 }
 
 // Geo contains geographical information

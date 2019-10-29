@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Laos
     official: República Democrática Popular Lao
+    nationality: " laotian"
 currencies:
 - LAK
 borders:

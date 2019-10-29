@@ -41,6 +41,7 @@ translations:
   SPA:
     common: Vietnam
     official: República Socialista de Vietnam
+    nationality: Vietnamita
 currencies:
 - VND
 borders:

@@ -33,6 +33,7 @@ translations:
   SPA:
     common: Botswana
     official: República de Botswana
+    nationality: " botswanan"
 currencies:
 - BWP
 borders:

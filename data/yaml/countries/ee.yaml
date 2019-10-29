@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Estonia
     official: República de Estonia
+    nationality: Estonia
 currencies:
 - EUR
 borders:

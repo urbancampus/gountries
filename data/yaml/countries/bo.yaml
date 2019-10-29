@@ -50,6 +50,7 @@ translations:
   SPA:
     common: Bolivia
     official: Estado Plurinacional de Bolivia
+    nationality: Boliviana
 currencies:
 - BOB
 - BOV

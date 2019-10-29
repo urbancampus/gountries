@@ -33,6 +33,7 @@ translations:
   SPA:
     common: Tailandia
     official: Reino de Tailandia
+    nationality: Tailandés
 currencies:
 - THB
 borders:

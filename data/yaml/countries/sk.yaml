@@ -41,6 +41,7 @@ translations:
   SPA:
     common: República Eslovaca
     official: República Eslovaca
+    nationality: Eslovaca
 currencies:
 - EUR
 borders:

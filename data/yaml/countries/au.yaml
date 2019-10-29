@@ -41,6 +41,7 @@ translations:
   SPA:
     common: Australia
     official: Mancomunidad de Australia
+    nationality: Australiana
 currencies:
 - AUD
 borders: []

@@ -36,6 +36,7 @@ translations:
   SPA:
     common: Irlanda
     official: República de Irlanda
+    nationality: Irlandés
 currencies:
 - EUR
 borders:

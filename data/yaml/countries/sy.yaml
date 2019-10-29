@@ -30,6 +30,8 @@ translations:
   RUS:
     common: Сирия
     official: Сирийская Арабская Республика
+  SPA:
+    nationality: Siria
 currencies:
 - SYP
 borders:

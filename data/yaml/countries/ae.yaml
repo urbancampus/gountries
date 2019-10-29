@@ -33,6 +33,7 @@ translations:
   SPA:
     common: Emiratos Árabes Unidos
     official: Emiratos Árabes Unidos
+    nationality: Emiratí
 currencies:
 - AED
 borders:

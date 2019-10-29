@@ -33,6 +33,7 @@ translations:
   SPA:
     common: Corea del Sur
     official: República de Corea
+    nationality: Coreana
 currencies:
 - KRW
 borders:

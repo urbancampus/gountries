@@ -30,6 +30,8 @@ translations:
   JPN:
     common: スーダン
     official: スーダン共和国
+  SPA:
+    nationality: Sudanés
 currencies:
 - SDG
 borders:

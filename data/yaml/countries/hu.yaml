@@ -41,6 +41,8 @@ translations:
   RUS:
     common: Венгрия
     official: Венгрия
+  SPA:
+    nationality: " magyar"
 currencies:
 - HUF
 borders:

@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Reino Unido
     official: Reino Unido de Gran Bretaña e Irlanda del Norte
+    nationality: " uk"
 currencies:
 - GBP
 borders:

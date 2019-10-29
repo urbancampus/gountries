@@ -41,6 +41,7 @@ translations:
   SPA:
     common: Dinamarca
     official: Reino de Dinamarca
+    nationality: Danés
 currencies:
 - DKK
 borders:

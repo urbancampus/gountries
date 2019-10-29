@@ -38,6 +38,8 @@ translations:
   POR:
     common: Colômbia
     official: República da Colômbia
+  SPA:
+    nationality: Colombiana
 currencies:
 - COP
 borders:

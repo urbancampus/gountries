@@ -42,6 +42,7 @@ translations:
   SPA:
     common: Filipinas
     official: República de las Filipinas
+    nationality: Filipina
 currencies:
 - PHP
 borders: []

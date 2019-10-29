@@ -33,6 +33,7 @@ translations:
   SPA:
     common: Arabia Saudí
     official: Reino de Arabia Saudita
+    nationality: Saudí
 currencies:
 - SAR
 borders:

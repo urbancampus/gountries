@@ -29,6 +29,8 @@ translations:
   RUS:
     common: Португалия
     official: Португальская Республика
+  SPA:
+    nationality: Portugués
 currencies:
 - EUR
 borders:

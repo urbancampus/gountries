@@ -35,6 +35,8 @@ translations:
   RUS:
     common: Гондурас
     official: Республика Гондурас
+  SPA:
+    nationality: Hondureña
 currencies:
 - HNL
 borders:

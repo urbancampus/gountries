@@ -67,6 +67,7 @@ translations:
   SPA:
     common: Namibia
     official: República de Namibia
+    nationality: Namibia
 currencies:
 - NAD
 - ZAR

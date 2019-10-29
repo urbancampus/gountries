@@ -37,6 +37,7 @@ translations:
   SPA:
     common: Taiwán
     official: República de China en Taiwán
+    nationality: Taiwanés
 currencies:
 - TWD
 borders: []

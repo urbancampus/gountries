@@ -32,6 +32,8 @@ translations:
   RUS:
     common: Эквадор
     official: Республика Эквадор
+  SPA:
+    nationality: Ecuatoriana
 currencies:
 - USD
 borders:

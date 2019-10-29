@@ -42,6 +42,7 @@ translations:
   SPA:
     common: Finlandia
     official: República de Finlandia
+    nationality: Finlandés
 currencies:
 - EUR
 borders:

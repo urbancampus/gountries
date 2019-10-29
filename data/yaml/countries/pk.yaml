@@ -45,6 +45,7 @@ translations:
   SPA:
     common: Pakistán
     official: República Islámica de Pakistán
+    nationality: Paquistaní
 currencies:
 - PKR
 borders:

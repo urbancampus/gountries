@@ -29,6 +29,7 @@ translations:
   SPA:
     common: Mongolia
     official: Mongolia
+    nationality: Mongol
 currencies:
 - MNT
 borders:

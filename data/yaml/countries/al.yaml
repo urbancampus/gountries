@@ -41,6 +41,7 @@ translations:
   SPA:
     common: Albania
     official: República de Albania
+    nationality: Albanés
 currencies:
 - ALL
 borders:

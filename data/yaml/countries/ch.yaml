@@ -47,6 +47,7 @@ translations:
   SPA:
     common: Suiza
     official: Confederación Suiza
+    nationality: Suiza
 currencies:
 - CHE
 - CHF

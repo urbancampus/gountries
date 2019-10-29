@@ -48,6 +48,7 @@ translations:
   SPA:
     common: Argentina
     official: República Argentina
+    nationality: Argentina
 currencies:
 - ARS
 borders:

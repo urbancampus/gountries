@@ -39,6 +39,8 @@ translations:
   RUS:
     common: Мальта
     official: Республика Мальта
+  SPA:
+    nationality: Maltés
 currencies:
 - EUR
 borders: []

@@ -34,6 +34,8 @@ translations:
   RUS:
     common: Россия
     official: Россия Федерация
+  SPA:
+    nationality: Rusa
 currencies:
 - RUB
 borders:

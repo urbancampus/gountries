@@ -36,6 +36,8 @@ translations:
   RUS:
     common: Египет
     official: Арабская Республика Египет
+  SPA:
+    nationality: Egipcia
 currencies:
 - EGP
 borders:

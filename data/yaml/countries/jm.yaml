@@ -30,6 +30,7 @@ translations:
   SPA:
     common: Jamaica
     official: Jamaica
+    nationality: Jamaicana
 currencies:
 - JMD
 borders: []

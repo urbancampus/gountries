@@ -26,6 +26,8 @@ translations:
   RUS:
     common: Панама
     official: Республика Панама
+  SPA:
+    nationality: Panameña
 currencies:
 - PAB
 - USD

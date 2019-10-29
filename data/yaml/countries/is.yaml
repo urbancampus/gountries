@@ -35,6 +35,8 @@ translations:
   POR:
     common: Islândia
     official: Islândia
+  SPA:
+    nationality: Islandés
 currencies:
 - ISK
 borders: []

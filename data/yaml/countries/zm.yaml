@@ -41,6 +41,7 @@ translations:
   SPA:
     common: Zambia
     official: República de Zambia
+    nationality: Zambiana
 currencies:
 - ZMW
 borders:

@@ -32,6 +32,8 @@ translations:
   JPN:
     common: ドミニカ国
     official: ドミニカ国
+  SPA:
+    nationality: Dominicana
 currencies:
 - XCD
 borders: []

@@ -39,6 +39,7 @@ translations:
   SPA:
     common: Argelia
     official: República Argelina Democrática y Popular
+    nationality: Argelina
 currencies:
 - DZD
 borders:

@@ -31,6 +31,8 @@ translations:
   RUS:
     common: Афганистан
     official: Исламская Республика Афганистан
+  SPA:
+    nationality: Afgana
 currencies:
 - AFN
 borders:

@@ -46,6 +46,7 @@ translations:
   SPA:
     common: Irak
     official: República de Irak
+    nationality: Iraquí
 currencies:
 - IQD
 borders:

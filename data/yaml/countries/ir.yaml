@@ -27,6 +27,7 @@ translations:
   SPA:
     common: Iran
     official: República Islámica de Irán
+    nationality: Iraní
 currencies:
 - IRR
 borders:

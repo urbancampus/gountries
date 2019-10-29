@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Venezuela
     official: República Bolivariana de Venezuela
+    nationality: Venezolana
 currencies:
 - VEF
 borders:

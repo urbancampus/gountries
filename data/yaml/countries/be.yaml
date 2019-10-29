@@ -43,6 +43,8 @@ translations:
   RUS:
     common: Бельгия
     official: Королевство Бельгия
+  SPA:
+    nationality: Belga
 currencies:
 - EUR
 borders:

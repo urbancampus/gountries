@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Austria
     official: República de Austria
+    nationality: Austríaca
 currencies:
 - EUR
 borders:

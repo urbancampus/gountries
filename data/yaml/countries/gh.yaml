@@ -32,6 +32,7 @@ translations:
   SPA:
     common: Ghana
     official: República de Ghana
+    nationality: Ghanés
 currencies:
 - GHS
 borders:

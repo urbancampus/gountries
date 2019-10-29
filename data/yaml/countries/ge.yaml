@@ -32,6 +32,8 @@ translations:
   RUS:
     common: Грузия
     official: Грузия
+  SPA:
+    nationality: Georgiana
 currencies:
 - GEL
 borders:

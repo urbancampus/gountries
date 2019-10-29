@@ -35,6 +35,8 @@ translations:
   RUS:
     common: Сенегал
     official: Республика Сенегал
+  SPA:
+    nationality: Senegalés
 currencies:
 - XOF
 borders:

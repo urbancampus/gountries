@@ -33,6 +33,8 @@ translations:
   NLD:
     common: Israël
     official: Staat Israël
+  SPA:
+    nationality: Israelita
 currencies:
 - ILS
 borders:

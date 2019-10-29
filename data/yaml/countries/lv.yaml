@@ -29,6 +29,7 @@ translations:
   SPA:
     common: Letonia
     official: República de Letonia
+    nationality: Letón
 currencies:
 - EUR
 borders:

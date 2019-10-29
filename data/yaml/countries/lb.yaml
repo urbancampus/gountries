@@ -42,6 +42,7 @@ translations:
   SPA:
     common: Líbano
     official: República Libanesa
+    nationality: Libanés
 currencies:
 - LBP
 borders:

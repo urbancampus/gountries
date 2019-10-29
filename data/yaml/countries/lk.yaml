@@ -38,6 +38,7 @@ translations:
   SPA:
     common: Sri Lanka
     official: República Democrática Socialista de Sri Lanka
+    nationality: De sri lanka
 currencies:
 - LKR
 borders:

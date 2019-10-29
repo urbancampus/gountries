@@ -37,6 +37,8 @@ translations:
   RUS:
     common: Новая Зеландия
     official: Новая Зеландия
+  SPA:
+    nationality: Nueva zelanda
 currencies:
 - NZD
 borders: []

@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Polonia
     official: República de Polonia
+    nationality: Polaca
 currencies:
 - PLN
 borders:

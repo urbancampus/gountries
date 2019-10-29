@@ -36,6 +36,7 @@ translations:
   SPA:
     common: República Checa
     official: República Checa
+    nationality: Checa
 currencies:
 - CZK
 borders:

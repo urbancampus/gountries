@@ -43,6 +43,7 @@ translations:
   SPA:
     common: Fiyi
     official: República de Fiji
+    nationality: Fiyiana
 currencies:
 - FJD
 borders: []

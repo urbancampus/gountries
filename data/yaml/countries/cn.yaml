@@ -39,6 +39,7 @@ translations:
   SPA:
     common: China
     official: República Popular de China
+    nationality: China
 currencies:
 - CNY
 borders:

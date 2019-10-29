@@ -41,6 +41,7 @@ translations:
   SPA:
     common: Chile
     official: República de Chile
+    nationality: Chilena
 currencies:
 - CLF
 - CLP

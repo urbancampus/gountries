@@ -39,6 +39,8 @@ translations:
   RUS:
     common: Гаити
     official: Республика Гаити
+  SPA:
+    nationality: Haitiana
 currencies:
 - HTG
 - USD

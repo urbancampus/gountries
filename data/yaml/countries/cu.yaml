@@ -38,6 +38,8 @@ translations:
   POR:
     common: Cuba
     official: República de Cuba
+  SPA:
+    nationality: Cubana
 currencies:
 - CUC
 - CUP

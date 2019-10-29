@@ -46,6 +46,7 @@ translations:
   SPA:
     common: India
     official: República de la India
+    nationality: India
 currencies:
 - INR
 borders:

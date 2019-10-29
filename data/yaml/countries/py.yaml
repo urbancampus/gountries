@@ -33,6 +33,8 @@ translations:
   POR:
     common: Paraguai
     official: República do Paraguai
+  SPA:
+    nationality: Paraguaya
 currencies:
 - PYG
 borders:

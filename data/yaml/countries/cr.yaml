@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Costa Rica
     official: República de Costa Rica
+    nationality: Costarricense
 currencies:
 - CRC
 borders:

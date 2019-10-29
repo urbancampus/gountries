@@ -35,6 +35,8 @@ translations:
   POR:
     common: El Salvador
     official: República de El Salvador
+  SPA:
+    nationality: Salvadoreña
 currencies:
 - SVC
 - USD

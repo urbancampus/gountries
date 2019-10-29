@@ -36,6 +36,7 @@ translations:
   SPA:
     common: Canadá
     official: Canadá
+    nationality: Canadiense
 currencies:
 - CAD
 borders:

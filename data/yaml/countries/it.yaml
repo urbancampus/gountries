@@ -31,6 +31,8 @@ translations:
   RUS:
     common: Италия
     official: итальянская Республика
+  SPA:
+    nationality: Italiana
 currencies:
 - EUR
 borders:

@@ -69,6 +69,7 @@ translations:
   SPA:
     common: República de Sudáfrica
     official: República de Sudáfrica
+    nationality: Sudafricana
 currencies:
 - ZAR
 borders:

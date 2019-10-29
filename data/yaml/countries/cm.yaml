@@ -42,6 +42,8 @@ translations:
   RUS:
     common: Камерун
     official: Республика Камерун
+  SPA:
+    nationality: Camerunesa
 currencies:
 - XAF
 borders:

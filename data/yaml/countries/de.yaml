@@ -38,6 +38,8 @@ translations:
   POR:
     common: Alemanha
     official: República Federal da Alemanha
+  SPA:
+    nationality: Alemán
 currencies:
 - EUR
 borders:

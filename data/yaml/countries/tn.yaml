@@ -38,6 +38,8 @@ translations:
   RUS:
     common: Тунис
     official: Тунисской Республики
+  SPA:
+    nationality: Tunecina
 currencies:
 - TND
 borders:

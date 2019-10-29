@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Suecia
     official: Reino de Suecia
+    nationality: Sueca
 currencies:
 - SEK
 borders:

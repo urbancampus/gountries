@@ -29,6 +29,7 @@ translations:
   SPA:
     common: Países Bajos
     official: Países Bajos
+    nationality: Neerlandés
 currencies:
 - EUR
 borders:

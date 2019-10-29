@@ -38,6 +38,8 @@ translations:
   RUS:
     common: Индонезия
     official: Республика Индонезия
+  SPA:
+    nationality: Indonesia
 currencies:
 - IDR
 borders:

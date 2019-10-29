@@ -35,6 +35,7 @@ translations:
   SPA:
     common: Croacia
     official: República de Croacia
+    nationality: Croata
 currencies:
 - HRK
 borders:

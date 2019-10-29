@@ -32,6 +32,7 @@ translations:
   SPA:
     common: Islas Ultramarinas Menores de Estados Unidos
     official: Estados Unidos Islas menores alejadas de
+    nationality: Americana
 currencies:
 - USD
 borders: []

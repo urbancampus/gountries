@@ -32,6 +32,8 @@ translations:
   NLD:
     common: Nepal
     official: Federale Democratische Republiek Nepal
+  SPA:
+    nationality: " nepalese"
 currencies:
 - NPR
 borders:

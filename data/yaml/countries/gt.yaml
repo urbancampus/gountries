@@ -29,6 +29,8 @@ translations:
   NLD:
     common: Guatemala
     official: Republiek Guatemala
+  SPA:
+    nationality: Guatemalteca
 currencies:
 - GTQ
 borders:

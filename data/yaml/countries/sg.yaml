@@ -46,6 +46,8 @@ translations:
   RUS:
     common: Сингапур
     official: Республика Сингапур
+  SPA:
+    nationality: Singapurense
 currencies:
 - SGD
 borders: []

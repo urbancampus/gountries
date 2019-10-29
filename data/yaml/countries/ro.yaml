@@ -29,6 +29,8 @@ translations:
   RUS:
     common: Румыния
     official: Румыния
+  SPA:
+    nationality: Rumana
 currencies:
 - RON
 borders:

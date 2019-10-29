@@ -26,6 +26,8 @@ translations:
   POR:
     common: Nicarágua
     official: República da Nicarágua
+  SPA:
+    nationality: Nicaragüense
 currencies:
 - NIO
 borders:

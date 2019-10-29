@@ -38,6 +38,7 @@ translations:
   SPA:
     common: Bulgaria
     official: República de Bulgaria
+    nationality: Búlgara
 currencies:
 - BGN
 borders:

@@ -32,6 +32,7 @@ translations:
   SPA:
     common: Turquía
     official: República de Turquía
+    nationality: Turca
 currencies:
 - TRY
 borders:

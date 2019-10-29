@@ -33,6 +33,7 @@ translations:
   SPA:
     common: Japón
     official: Japón
+    nationality: Nipona
 currencies:
 - JPY
 borders: []

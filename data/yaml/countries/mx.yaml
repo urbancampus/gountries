@@ -35,6 +35,8 @@ translations:
   RUS:
     common: Мексика
     official: Мексиканских Соединенных Штатов
+  SPA:
+    nationality: Mexicana
 currencies:
 - MXN
 borders:
